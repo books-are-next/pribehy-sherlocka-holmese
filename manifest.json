@@ -1,16 +1,16 @@
 {
   "author": "Arthur Conan Doyle",
   "edition": "beletrie",
-  "identifier": "doyle-pribehy-sherlocka-holmese-cd4de90",
+  "identifier": "doyle-pribehy-sherlocka-holmese-aaace41",
   "languagecode": "cs",
   "modified": "2022-02-15T17:57:06.756Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Příběhy Sherlocka Holmese",
-  "revision": "cd4de90",
+  "revision": "aaace41",
   "generatedAt": {
-    "date": "Tue Feb 15 2022 18:15:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1644948922595
+    "date": "Tue Feb 15 2022 18:23:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1644949428691
   },
   "documents": [
     {
@@ -89,15 +89,7 @@
           "level": 1,
           "name": "PODPIS ČTYŘ",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "I — Vědecká dedukce",
-              "id": "inbspmdash-vědecká-dedukce",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -337,15 +329,7 @@
           "level": 1,
           "name": "DOBRODRUŽSTVÍ  SHERLOCKA HOLMESE",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "I — Skandál v Čechách",
-              "id": "inbspmdash-skandál-vnbspčechách",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },

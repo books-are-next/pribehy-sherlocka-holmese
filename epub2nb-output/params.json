@@ -11,9 +11,9 @@
       "edition": "beletrie"
     },
     "elements": {
-      "title": "e-booknadpis \ne-booknadpis1",
+      "title": "e-booknadpis  \ne-booknadpis1\ne-booknadpis2bezodstrnkovn",
       "subtitle": "",
-      "h2": "e-booknadpis2bezodstrnkovn",
+      "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
@@ -33,6 +33,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "pribehy_sherlocka_holmese_split_000.md",
@@ -62,7 +63,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_004.md",
@@ -72,7 +74,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_005.md",
@@ -82,7 +85,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_006.md",
@@ -92,7 +96,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_007.md",
@@ -102,7 +107,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_008.md",
@@ -112,7 +118,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_009.md",
@@ -122,7 +129,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_010.md",
@@ -132,7 +140,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_011.md",
@@ -142,7 +151,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_012.md",
@@ -152,7 +162,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_013.md",
@@ -162,7 +173,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_014.md",
@@ -172,7 +184,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_015.md",
@@ -182,7 +195,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_016.md",
@@ -192,7 +206,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_017.md",
@@ -202,7 +217,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_018.md",
@@ -212,7 +228,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_019.md",
@@ -222,7 +239,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_020.md",
@@ -232,7 +250,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_021.md",
@@ -242,7 +261,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_022.md",
@@ -252,7 +272,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_023.md",
@@ -262,7 +283,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_024.md",
@@ -272,7 +294,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_025.md",
@@ -282,7 +305,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_026.md",
@@ -292,7 +316,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_027.md",
@@ -302,7 +327,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_028.md",
@@ -324,7 +350,7 @@
       "identifier": "fda8acc1-7caa-4d1e-a6a5-40f4d5ba7bdd",
       "author": "Arthur Conan Doyle",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-15T18:09:20.950Z"
+      "modified": "2022-02-15T18:22:41.165Z"
     },
     "chapters": [
       {
@@ -554,6 +580,6 @@
       "user": "books-are-next",
       "repo": "pribehy-sherlocka-holmese"
     },
-    "generatedAt": 1644948562713
+    "generatedAt": 1644949362628
   }
 }

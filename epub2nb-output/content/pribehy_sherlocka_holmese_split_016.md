@@ -2,7 +2,7 @@
 title: "DOBRODRUŽSTVÍ\_ SHERLOCKA HOLMESE"
 ---
 
-## I - Skandál v Čechách
+I - Skandál v Čechách
 
 Irena Adlerová vždycky zůstane pro Sherlocka Holmese ženou všech žen. Jen málokdy jsem ho slyšel, že by o ní byl promluvil jinými slovy. Všechny ostatní ženy před ní v jeho očích blednou a ustupují daleko do pozadí. Ne snad že by k ní cítil něco jako lásku. Jakýkoli cit, zejména láska, se jeho chladnému, přesnému a obdivuhodně vyváženému myšlení přímo příčí. Sherlock Holmes je podle mého soudu nejdokonalejším myslícím a pozorovacím strojem, jaký svět kdy poznal, ale coby milenec by se ukázal v docela falešném světle. O něžnějších citech nikdy nemluví, leda s pohrdáním a úšklebkem. Jako pozorovatel si jich nesmírně cení - mohou se výtečně hodit k odhalování záhadných lidských činů a jejich motivů. Kdyby však tento člověk, zvyklý všechno rozumově rozbírat, vpustil do svého jemného a přesně seřízeného uvažování něco tak cizorodého, dal by tím pouze průchod rušivým prvkům, které by ještě mohly uvrhnout v pochybnost vše, k čemu svým myšlením dospěl. Písek v jemném přístroji či prasklina v některé ze silných čoček, které sám užívá, by nemohly způsobit větší škodu než prudký cit v povaze, jako je jeho. Jedna žena však pro něj přece jen existovala, jen jedna jediná, a to Irena Adlerová, žena pochybné a sporné pověsti.
 
