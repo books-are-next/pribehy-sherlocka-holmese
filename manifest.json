@@ -1,0 +1,605 @@
+{
+  "author": "Arthur Conan Doyle",
+  "edition": "beletrie",
+  "identifier": "doyle-pribehy-sherlocka-holmese-cd4de90",
+  "languagecode": "cs",
+  "modified": "2022-02-15T17:57:06.756Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Příběhy Sherlocka Holmese",
+  "revision": "cd4de90",
+  "generatedAt": {
+    "date": "Tue Feb 15 2022 18:15:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1644948922595
+  },
+  "documents": [
+    {
+      "title": "Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_000.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "pribehy_sherlocka_holmese_split_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_001.html",
+      "words": 168,
+      "chars": 1197,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 1,
+      "prev": "pribehy_sherlocka_holmese_split_000.html",
+      "next": "pribehy_sherlocka_holmese_split_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "STUDIE V ŠARLATOVÉ • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_003.html",
+      "words": 3,
+      "chars": 18,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "pribehy_sherlocka_holmese_split_001.html",
+      "next": "pribehy_sherlocka_holmese_split_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "STUDIE V ŠARLATOVÉ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PODPIS ČTYŘ • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_004.html",
+      "words": 2593,
+      "chars": 16291,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 3,
+      "prev": "pribehy_sherlocka_holmese_split_003.html",
+      "next": "pribehy_sherlocka_holmese_split_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PODPIS ČTYŘ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I — Vědecká dedukce",
+              "id": "inbspmdash-vědecká-dedukce",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "II - Obeznámení s případem • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_005.html",
+      "words": 1693,
+      "chars": 10397,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 4,
+      "prev": "pribehy_sherlocka_holmese_split_004.html",
+      "next": "pribehy_sherlocka_holmese_split_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II - Obeznámení s případem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III - Při hledání řešení • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_006.html",
+      "words": 1525,
+      "chars": 9518,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 5,
+      "prev": "pribehy_sherlocka_holmese_split_005.html",
+      "next": "pribehy_sherlocka_holmese_split_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III - Při hledání řešení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV – Vyprávění plešatého muže • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_007.html",
+      "words": 3367,
+      "chars": 20390,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 6,
+      "prev": "pribehy_sherlocka_holmese_split_006.html",
+      "next": "pribehy_sherlocka_holmese_split_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV – Vyprávění plešatého muže",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V – Tragédie v Pondicherry Lodge • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_008.html",
+      "words": 2262,
+      "chars": 13548,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 7,
+      "prev": "pribehy_sherlocka_holmese_split_007.html",
+      "next": "pribehy_sherlocka_holmese_split_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V – Tragédie v Pondicherry Lodge",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI - Sherlock Holmes podává důkaz • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_009.html",
+      "words": 2834,
+      "chars": 16910,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 8,
+      "prev": "pribehy_sherlocka_holmese_split_008.html",
+      "next": "pribehy_sherlocka_holmese_split_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI - Sherlock Holmes podává důkaz",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII - Epizoda se sudem • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_010.html",
+      "words": 3749,
+      "chars": 22537,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 9,
+      "prev": "pribehy_sherlocka_holmese_split_009.html",
+      "next": "pribehy_sherlocka_holmese_split_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII - Epizoda se sudem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII - Příležitostní malí detektivové z Baker Street • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_011.html",
+      "words": 2930,
+      "chars": 17855,
+      "ideas": 84,
+      "role": "chapter",
+      "order": 10,
+      "prev": "pribehy_sherlocka_holmese_split_010.html",
+      "next": "pribehy_sherlocka_holmese_split_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII - Příležitostní malí detektivové z Baker Street",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX - Přetržený řetěz • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_012.html",
+      "words": 3141,
+      "chars": 18675,
+      "ideas": 102,
+      "role": "chapter",
+      "order": 11,
+      "prev": "pribehy_sherlocka_holmese_split_011.html",
+      "next": "pribehy_sherlocka_holmese_split_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX - Přetržený řetěz",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X – Konec domorodce z ostrovů • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_013.html",
+      "words": 2986,
+      "chars": 17879,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 12,
+      "prev": "pribehy_sherlocka_holmese_split_012.html",
+      "next": "pribehy_sherlocka_holmese_split_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X – Konec domorodce z ostrovů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI - Velký poklad z Agry • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_014.html",
+      "words": 1912,
+      "chars": 11185,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 13,
+      "prev": "pribehy_sherlocka_holmese_split_013.html",
+      "next": "pribehy_sherlocka_holmese_split_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI - Velký poklad z Agry",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII - Podivuhodná historie Jonathana Smalla • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_015.html",
+      "words": 9024,
+      "chars": 52736,
+      "ideas": 135,
+      "role": "chapter",
+      "order": 14,
+      "prev": "pribehy_sherlocka_holmese_split_014.html",
+      "next": "pribehy_sherlocka_holmese_split_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII - Podivuhodná historie Jonathana Smalla",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DOBRODRUŽSTVÍ  SHERLOCKA HOLMESE • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_016.html",
+      "words": 7517,
+      "chars": 44868,
+      "ideas": 263,
+      "role": "chapter",
+      "order": 15,
+      "prev": "pribehy_sherlocka_holmese_split_015.html",
+      "next": "pribehy_sherlocka_holmese_split_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DOBRODRUŽSTVÍ  SHERLOCKA HOLMESE",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I — Skandál v Čechách",
+              "id": "inbspmdash-skandál-vnbspčechách",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "II - Spolek ryšavců • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_017.html",
+      "words": 7825,
+      "chars": 46834,
+      "ideas": 219,
+      "role": "chapter",
+      "order": 16,
+      "prev": "pribehy_sherlocka_holmese_split_016.html",
+      "next": "pribehy_sherlocka_holmese_split_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II - Spolek ryšavců",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III - Případ totožnosti • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_018.html",
+      "words": 6124,
+      "chars": 36182,
+      "ideas": 139,
+      "role": "chapter",
+      "order": 17,
+      "prev": "pribehy_sherlocka_holmese_split_017.html",
+      "next": "pribehy_sherlocka_holmese_split_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III - Případ totožnosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV - Záhada Boscombského údolí • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_019.html",
+      "words": 8346,
+      "chars": 48918,
+      "ideas": 215,
+      "role": "chapter",
+      "order": 18,
+      "prev": "pribehy_sherlocka_holmese_split_018.html",
+      "next": "pribehy_sherlocka_holmese_split_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV - Záhada Boscombského údolí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V - Pět pomerančových jadérek • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_020.html",
+      "words": 6033,
+      "chars": 35912,
+      "ideas": 177,
+      "role": "chapter",
+      "order": 19,
+      "prev": "pribehy_sherlocka_holmese_split_019.html",
+      "next": "pribehy_sherlocka_holmese_split_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V - Pět pomerančových jadérek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI - Ohyzdný žebrák • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_021.html",
+      "words": 7893,
+      "chars": 46643,
+      "ideas": 223,
+      "role": "chapter",
+      "order": 20,
+      "prev": "pribehy_sherlocka_holmese_split_020.html",
+      "next": "pribehy_sherlocka_holmese_split_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI - Ohyzdný žebrák",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII - Modrá karbunkule • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_022.html",
+      "words": 6711,
+      "chars": 39549,
+      "ideas": 209,
+      "role": "chapter",
+      "order": 21,
+      "prev": "pribehy_sherlocka_holmese_split_021.html",
+      "next": "pribehy_sherlocka_holmese_split_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII - Modrá karbunkule",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII - Strakatý pás • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_023.html",
+      "words": 8146,
+      "chars": 48725,
+      "ideas": 253,
+      "role": "chapter",
+      "order": 22,
+      "prev": "pribehy_sherlocka_holmese_split_022.html",
+      "next": "pribehy_sherlocka_holmese_split_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII - Strakatý pás",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX - Inženýrův palec • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_024.html",
+      "words": 7014,
+      "chars": 41526,
+      "ideas": 178,
+      "role": "chapter",
+      "order": 23,
+      "prev": "pribehy_sherlocka_holmese_split_023.html",
+      "next": "pribehy_sherlocka_holmese_split_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX - Inženýrův palec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X - Urozený ženich • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_025.html",
+      "words": 6995,
+      "chars": 41657,
+      "ideas": 228,
+      "role": "chapter",
+      "order": 24,
+      "prev": "pribehy_sherlocka_holmese_split_024.html",
+      "next": "pribehy_sherlocka_holmese_split_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X - Urozený ženich",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI - Berylová korunka • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_026.html",
+      "words": 8270,
+      "chars": 47926,
+      "ideas": 219,
+      "role": "chapter",
+      "order": 25,
+      "prev": "pribehy_sherlocka_holmese_split_025.html",
+      "next": "pribehy_sherlocka_holmese_split_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI - Berylová korunka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII - Dům „U měděných buků“ • Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_027.html",
+      "words": 8513,
+      "chars": 50356,
+      "ideas": 209,
+      "role": "chapter",
+      "order": 26,
+      "prev": "pribehy_sherlocka_holmese_split_026.html",
+      "next": "pribehy_sherlocka_holmese_split_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII - Dům „U měděných buků“",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Příběhy Sherlocka Holmese",
+      "file": "pribehy_sherlocka_holmese_split_028.html",
+      "words": 31,
+      "chars": 172,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 27,
+      "prev": "pribehy_sherlocka_holmese_split_027.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 127614,
+      "chars": 758463,
+      "ideas": 3397
+    },
+    "chapters": {
+      "words": 127605,
+      "chars": 758404,
+      "ideas": 3392
+    }
+  }
+}

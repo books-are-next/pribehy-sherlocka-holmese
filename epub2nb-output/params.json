@@ -1,11 +1,330 @@
 {
+  "params": {
+    "metadata": {
+      "title": "Příběhy Sherlocka Holmese",
+      "identifier": "fda8acc1-7caa-4d1e-a6a5-40f4d5ba7bdd",
+      "author": "Arthur Conan Doyle",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-02-15T17:57:06.756Z",
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
+    },
+    "elements": {
+      "title": "e-booknadpis \ne-booknadpis1",
+      "subtitle": "",
+      "h2": "e-booknadpis2bezodstrnkovn",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "e-booktiracitacetextkurzvaChar",
+      "strong": "e-booktirautoradlo\ne-booktirtexttunChar",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "pribehy_sherlocka_holmese_split_000.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_000.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_001.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_001.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_003.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_003.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_004.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_004.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_005.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_006.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_007.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_008.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_009.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_010.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_011.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_012.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_013.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_014.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_015.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_015.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_016.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_016.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_017.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_017.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_018.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_018.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_019.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_019.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_020.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_020.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_021.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_021.html",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_022.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_022.html",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_023.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_023.html",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_024.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_024.html",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_025.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_025.html",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_026.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_026.html",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_027.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_027.html",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pribehy_sherlocka_holmese_split_028.md",
+            "xhtml": "pribehy_sherlocka_holmese_split_028.html",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
   "epub": {
     "metadata": {
       "title": "Příběhy Sherlocka Holmese",
       "identifier": "fda8acc1-7caa-4d1e-a6a5-40f4d5ba7bdd",
       "author": "Arthur Conan Doyle",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-15T17:57:06.756Z"
+      "modified": "2022-02-15T18:09:20.950Z"
     },
     "chapters": [
       {
@@ -21,151 +340,151 @@
         "xhtml": "pribehy_sherlocka_holmese_split_001.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "STUDIE V ŠARLATOVÉ",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_003.md",
         "xhtml": "pribehy_sherlocka_holmese_split_003.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "PODPIS ČTYŘ",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_004.md",
         "xhtml": "pribehy_sherlocka_holmese_split_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II - Obeznámení s případem",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_005.md",
         "xhtml": "pribehy_sherlocka_holmese_split_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III - Při hledání řešení",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_006.md",
         "xhtml": "pribehy_sherlocka_holmese_split_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IV – Vyprávění plešatého muže",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_007.md",
         "xhtml": "pribehy_sherlocka_holmese_split_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V – Tragédie v Pondicherry Lodge",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_008.md",
         "xhtml": "pribehy_sherlocka_holmese_split_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VI - Sherlock Holmes podává důkaz",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_009.md",
         "xhtml": "pribehy_sherlocka_holmese_split_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VII - Epizoda se sudem",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_010.md",
         "xhtml": "pribehy_sherlocka_holmese_split_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VIII - Příležitostní malí detektivové z Baker Street",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_011.md",
         "xhtml": "pribehy_sherlocka_holmese_split_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IX - Přetržený řetěz",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_012.md",
         "xhtml": "pribehy_sherlocka_holmese_split_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "X – Konec domorodce z ostrovů",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_013.md",
         "xhtml": "pribehy_sherlocka_holmese_split_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XI - Velký poklad z Agry",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_014.md",
         "xhtml": "pribehy_sherlocka_holmese_split_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XII - Podivuhodná historie Jonathana Smalla",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_015.md",
         "xhtml": "pribehy_sherlocka_holmese_split_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DOBRODRUŽSTVÍ  SHERLOCKA HOLMESE",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_016.md",
         "xhtml": "pribehy_sherlocka_holmese_split_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II - Spolek ryšavců",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_017.md",
         "xhtml": "pribehy_sherlocka_holmese_split_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III - Případ totožnosti",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_018.md",
         "xhtml": "pribehy_sherlocka_holmese_split_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IV - Záhada Boscombského údolí",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_019.md",
         "xhtml": "pribehy_sherlocka_holmese_split_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V - Pět pomerančových jadérek",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_020.md",
         "xhtml": "pribehy_sherlocka_holmese_split_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VI - Ohyzdný žebrák",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_021.md",
         "xhtml": "pribehy_sherlocka_holmese_split_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VII - Modrá karbunkule",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_022.md",
         "xhtml": "pribehy_sherlocka_holmese_split_022.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VIII - Strakatý pás",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_023.md",
         "xhtml": "pribehy_sherlocka_holmese_split_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IX - Inženýrův palec",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_024.md",
         "xhtml": "pribehy_sherlocka_holmese_split_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "X - Urozený ženich",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_025.md",
         "xhtml": "pribehy_sherlocka_holmese_split_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XI - Berylová korunka",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_026.md",
         "xhtml": "pribehy_sherlocka_holmese_split_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XII - Dům „U měděných buků“",
         "subtitleSuggest": "",
         "filename": "pribehy_sherlocka_holmese_split_027.md",
         "xhtml": "pribehy_sherlocka_holmese_split_027.html"
@@ -235,6 +554,6 @@
       "user": "books-are-next",
       "repo": "pribehy-sherlocka-holmese"
     },
-    "generatedAt": 1644947828091
+    "generatedAt": 1644948562713
   }
 }
