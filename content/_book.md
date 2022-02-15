@@ -12,8 +12,6 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - pribehy_sherlocka_holmese_split_000.html
-  - pribehy_sherlocka_holmese_split_001.html
   - pribehy_sherlocka_holmese_split_003.html
   - pribehy_sherlocka_holmese_split_004.html
   - pribehy_sherlocka_holmese_split_005.html
@@ -39,10 +37,85 @@ readingOrder:
   - pribehy_sherlocka_holmese_split_025.html
   - pribehy_sherlocka_holmese_split_026.html
   - pribehy_sherlocka_holmese_split_027.html
-  - pribehy_sherlocka_holmese_split_028.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: pribehy_sherlocka_holmese_split_003.html
+        title: STUDIE V ŠARLATOVÉ
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_004.html
+        title: PODPIS ČTYŘ
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_005.html
+        title: II - Obeznámení s případem
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_006.html
+        title: III - Při hledání řešení
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_007.html
+        title: IV – Vyprávění plešatého muže
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_008.html
+        title: V – Tragédie v Pondicherry Lodge
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_009.html
+        title: VI - Sherlock Holmes podává důkaz
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_010.html
+        title: VII - Epizoda se sudem
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_011.html
+        title: VIII - Příležitostní malí detektivové z Baker Street
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_012.html
+        title: IX - Přetržený řetěz
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_013.html
+        title: X – Konec domorodce z ostrovů
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_014.html
+        title: XI - Velký poklad z Agry
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_015.html
+        title: XII - Podivuhodná historie Jonathana Smalla
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_016.html
+        title: "DOBRODRUŽSTVÍ\_ SHERLOCKA HOLMESE"
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_017.html
+        title: II - Spolek ryšavců
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_018.html
+        title: III - Případ totožnosti
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_019.html
+        title: IV - Záhada Boscombského údolí
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_020.html
+        title: V - Pět pomerančových jadérek
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_021.html
+        title: VI - Ohyzdný žebrák
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_022.html
+        title: VII - Modrá karbunkule
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_023.html
+        title: VIII - Strakatý pás
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_024.html
+        title: IX - Inženýrův palec
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_025.html
+        title: X - Urozený ženich
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_026.html
+        title: XI - Berylová korunka
+        hiddenTitle: false
+      - link: pribehy_sherlocka_holmese_split_027.html
+        title: XII - Dům „U měděných buků“
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
