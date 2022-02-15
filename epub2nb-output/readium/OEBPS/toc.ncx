@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ces">
+  <head>
+    <meta content="fda8acc1-7caa-4d1e-a6a5-40f4d5ba7bdd" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.36)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Příběhy Sherlocka Holmese</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="e56b6453-37a3-4605-be85-f8da160ee94e" playOrder="1">
+      <navLabel>
+        <text>STUDIE V ŠARLATOVÉ</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_003.html"/>
+    </navPoint>
+    <navPoint id="fa8c2ce3-db56-4600-b83e-cd76f1d2fe59" playOrder="2">
+      <navLabel>
+        <text>PODPIS ČTYŘ</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_004.html"/>
+    </navPoint>
+    <navPoint id="a577f3d5-42ea-4e92-8f4f-c33432acdb12" playOrder="3">
+      <navLabel>
+        <text>I - Vědecká dedukce</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_004.html#_Toc316029289"/>
+    </navPoint>
+    <navPoint id="64616472-de0d-4365-ba1a-e67d8c6d9bb8" playOrder="4">
+      <navLabel>
+        <text>II - Obeznámení s případem</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_005.html"/>
+    </navPoint>
+    <navPoint id="80ce5fa4-0147-4193-a5d4-ff51a72d6afa" playOrder="5">
+      <navLabel>
+        <text>III - Při hledání řešení</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_006.html"/>
+    </navPoint>
+    <navPoint id="07f07fc0-c9e1-423d-9c0e-8fc80fd43a45" playOrder="6">
+      <navLabel>
+        <text>IV – Vyprávění plešatého muže</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_007.html"/>
+    </navPoint>
+    <navPoint id="464114d7-f677-4722-ad40-2003dade57ff" playOrder="7">
+      <navLabel>
+        <text>V – Tragédie v Pondicherry Lodge</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_008.html"/>
+    </navPoint>
+    <navPoint id="796349c7-a733-4074-a883-f58401a9e535" playOrder="8">
+      <navLabel>
+        <text>VI - Sherlock Holmes podává důkaz</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_009.html"/>
+    </navPoint>
+    <navPoint id="1994ca70-7844-4685-8e69-07893e9d9791" playOrder="9">
+      <navLabel>
+        <text>VII - Epizoda se sudem</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_010.html"/>
+    </navPoint>
+    <navPoint id="606e0bd7-2429-435d-b8af-3cbf1de7fccb" playOrder="10">
+      <navLabel>
+        <text>VIII - Příležitostní malí detektivové z Baker Street</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_011.html"/>
+    </navPoint>
+    <navPoint id="35e7c16f-498e-4bda-8c7b-db2b8452dbb1" playOrder="11">
+      <navLabel>
+        <text>IX - Přetržený řetěz</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_012.html"/>
+    </navPoint>
+    <navPoint id="733ed90d-64a7-45e4-8a22-758c040a78d6" playOrder="12">
+      <navLabel>
+        <text>X – Konec domorodce z ostrovů</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_013.html"/>
+    </navPoint>
+    <navPoint id="d9e5ee62-8401-4c79-92c4-89eefca89a1d" playOrder="13">
+      <navLabel>
+        <text>XI - Velký poklad z Agry</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_014.html"/>
+    </navPoint>
+    <navPoint id="393ccde5-9e9f-4dbb-bd3d-5d990e6e8ca9" playOrder="14">
+      <navLabel>
+        <text>XII - Podivuhodná historie Jonathana Smalla</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_015.html"/>
+    </navPoint>
+    <navPoint id="7bcc163b-78c4-410a-922c-7424dfda4a0a" playOrder="15">
+      <navLabel>
+        <text>DOBRODRUŽSTVÍ  SHERLOCKA HOLMESE</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_016.html"/>
+    </navPoint>
+    <navPoint id="1785bce5-b898-4b82-a714-ea0bbda7fac5" playOrder="16">
+      <navLabel>
+        <text>I - Skandál v Čechách</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_016.html#_Toc316029302"/>
+    </navPoint>
+    <navPoint id="f742d102-fc21-4d2d-9d55-80bb32b2437c" playOrder="17">
+      <navLabel>
+        <text>II - Spolek ryšavců</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_017.html"/>
+    </navPoint>
+    <navPoint id="b7771efc-6a1b-41ab-ad07-543c35a2ba7a" playOrder="18">
+      <navLabel>
+        <text>III - Případ totožnosti</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_018.html"/>
+    </navPoint>
+    <navPoint id="4754e9dd-232d-4a45-a798-5509259a7750" playOrder="19">
+      <navLabel>
+        <text>IV - Záhada Boscombského údolí</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_019.html"/>
+    </navPoint>
+    <navPoint id="9363970e-e1f5-49c5-9b07-a2d7e5f6e2bc" playOrder="20">
+      <navLabel>
+        <text>V - Pět pomerančových jadérek</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_020.html"/>
+    </navPoint>
+    <navPoint id="51bea4b6-d4d7-4618-aca1-e597a6c0857e" playOrder="21">
+      <navLabel>
+        <text>VI - Ohyzdný žebrák</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_021.html"/>
+    </navPoint>
+    <navPoint id="f41e6e58-5905-4701-b5f0-a1bf635f6a37" playOrder="22">
+      <navLabel>
+        <text>VII - Modrá karbunkule</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_022.html"/>
+    </navPoint>
+    <navPoint id="10f6e7d4-54f7-42f2-a4ac-a456585ac4fe" playOrder="23">
+      <navLabel>
+        <text>VIII - Strakatý pás</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_023.html"/>
+    </navPoint>
+    <navPoint id="e22fdf7b-ce6a-4734-8e3c-06bb897dd4d1" playOrder="24">
+      <navLabel>
+        <text>IX - Inženýrův palec</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_024.html"/>
+    </navPoint>
+    <navPoint id="fab977bb-26ca-4b4a-b3b6-8ed95c97d9dd" playOrder="25">
+      <navLabel>
+        <text>X - Urozený ženich</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_025.html"/>
+    </navPoint>
+    <navPoint id="f75be683-2417-4e3a-8767-f9ba9974d764" playOrder="26">
+      <navLabel>
+        <text>XI - Berylová korunka</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_026.html"/>
+    </navPoint>
+    <navPoint id="5e0f18d2-f28d-4d81-982b-f7fb1a9a745b" playOrder="27">
+      <navLabel>
+        <text>XII - Dům „U měděných buků“</text>
+      </navLabel>
+      <content src="Text/pribehy_sherlocka_holmese_split_027.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

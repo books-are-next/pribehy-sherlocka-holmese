@@ -1,0 +1,265 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Příběhy Sherlocka Holmese",
+    "identifier": "fda8acc1-7caa-4d1e-a6a5-40f4d5ba7bdd",
+    "author": "Arthur Conan Doyle",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2022-02-15T17:57:06.756Z",
+    "calibre:title_sort": "Příběhy Sherlocka Holmese",
+    "calibre:timestamp": "2012-01-21T09:51:35+00:00",
+    "Sigil version": "0.5.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_000.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_028.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/gif",
+      "href": "OEBPS/Images/image003.gif"
+    },
+    {
+      "type": "image/gif",
+      "href": "OEBPS/Images/image004.gif"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    }
+  ],
+  "toc": [
+    {
+      "title": "STUDIE V ŠARLATOVÉ",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_003.html"
+    },
+    {
+      "title": "PODPIS ČTYŘ",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_004.html"
+    },
+    {
+      "title": "I - Vědecká dedukce",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_004.html#_Toc316029289"
+    },
+    {
+      "title": "II - Obeznámení s případem",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_005.html"
+    },
+    {
+      "title": "III - Při hledání řešení",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_006.html"
+    },
+    {
+      "title": "IV – Vyprávění plešatého muže",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_007.html"
+    },
+    {
+      "title": "V – Tragédie v Pondicherry Lodge",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_008.html"
+    },
+    {
+      "title": "VI - Sherlock Holmes podává důkaz",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_009.html"
+    },
+    {
+      "title": "VII - Epizoda se sudem",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_010.html"
+    },
+    {
+      "title": "VIII - Příležitostní malí detektivové z Baker Street",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_011.html"
+    },
+    {
+      "title": "IX - Přetržený řetěz",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_012.html"
+    },
+    {
+      "title": "X – Konec domorodce z ostrovů",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_013.html"
+    },
+    {
+      "title": "XI - Velký poklad z Agry",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_014.html"
+    },
+    {
+      "title": "XII - Podivuhodná historie Jonathana Smalla",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_015.html"
+    },
+    {
+      "title": "DOBRODRUŽSTVÍ  SHERLOCKA HOLMESE",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_016.html"
+    },
+    {
+      "title": "I - Skandál v Čechách",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_016.html#_Toc316029302"
+    },
+    {
+      "title": "II - Spolek ryšavců",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_017.html"
+    },
+    {
+      "title": "III - Případ totožnosti",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_018.html"
+    },
+    {
+      "title": "IV - Záhada Boscombského údolí",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_019.html"
+    },
+    {
+      "title": "V - Pět pomerančových jadérek",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_020.html"
+    },
+    {
+      "title": "VI - Ohyzdný žebrák",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_021.html"
+    },
+    {
+      "title": "VII - Modrá karbunkule",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_022.html"
+    },
+    {
+      "title": "VIII - Strakatý pás",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_023.html"
+    },
+    {
+      "title": "IX - Inženýrův palec",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_024.html"
+    },
+    {
+      "title": "X - Urozený ženich",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_025.html"
+    },
+    {
+      "title": "XI - Berylová korunka",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_026.html"
+    },
+    {
+      "title": "XII - Dům „U měděných buků“",
+      "href": "OEBPS/Text/pribehy_sherlocka_holmese_split_027.html"
+    }
+  ]
+}
