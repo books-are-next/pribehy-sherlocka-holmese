@@ -39,9 +39,9 @@
             "filename": "pribehy_sherlocka_holmese_split_000.md",
             "xhtml": "pribehy_sherlocka_holmese_split_000.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -49,9 +49,9 @@
             "filename": "pribehy_sherlocka_holmese_split_001.md",
             "xhtml": "pribehy_sherlocka_holmese_split_001.html",
             "id": 1,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -63,8 +63,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "STUDIE V ŠARLATOVÉ",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_004.md",
@@ -74,8 +74,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "PODPIS ČTYŘ",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_005.md",
@@ -85,8 +85,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "II - Obeznámení s případem",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_006.md",
@@ -96,8 +96,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "III - Při hledání řešení",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_007.md",
@@ -107,8 +107,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "IV – Vyprávění plešatého muže",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_008.md",
@@ -118,8 +118,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "V – Tragédie v Pondicherry Lodge",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_009.md",
@@ -129,8 +129,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "VI - Sherlock Holmes podává důkaz",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_010.md",
@@ -140,8 +140,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "VII - Epizoda se sudem",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_011.md",
@@ -151,8 +151,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "VIII - Příležitostní malí detektivové z Baker Street",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_012.md",
@@ -162,8 +162,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "IX - Přetržený řetěz",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_013.md",
@@ -173,8 +173,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "X – Konec domorodce z ostrovů",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_014.md",
@@ -184,8 +184,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "XI - Velký poklad z Agry",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_015.md",
@@ -195,8 +195,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "XII - Podivuhodná historie Jonathana Smalla",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_016.md",
@@ -206,8 +206,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "DOBRODRUŽSTVÍ  SHERLOCKA HOLMESE",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_017.md",
@@ -217,8 +217,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "II - Spolek ryšavců",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_018.md",
@@ -228,8 +228,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "III - Případ totožnosti",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_019.md",
@@ -239,8 +239,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "IV - Záhada Boscombského údolí",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_020.md",
@@ -250,8 +250,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "V - Pět pomerančových jadérek",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_021.md",
@@ -261,8 +261,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "VI - Ohyzdný žebrák",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_022.md",
@@ -272,8 +272,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "VII - Modrá karbunkule",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_023.md",
@@ -283,8 +283,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "VIII - Strakatý pás",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_024.md",
@@ -294,8 +294,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "IX - Inženýrův palec",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_025.md",
@@ -305,8 +305,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "X - Urozený ženich",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_026.md",
@@ -316,8 +316,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "XI - Berylová korunka",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_027.md",
@@ -327,16 +327,16 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "XII - Dům „U měděných buků“",
+            "children": []
           },
           {
             "filename": "pribehy_sherlocka_holmese_split_028.md",
             "xhtml": "pribehy_sherlocka_holmese_split_028.html",
             "id": 27,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           }
@@ -350,7 +350,7 @@
       "identifier": "fda8acc1-7caa-4d1e-a6a5-40f4d5ba7bdd",
       "author": "Arthur Conan Doyle",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-15T18:22:41.165Z"
+      "modified": "2022-02-15T18:28:43.500Z"
     },
     "chapters": [
       {
@@ -580,6 +580,6 @@
       "user": "books-are-next",
       "repo": "pribehy-sherlocka-holmese"
     },
-    "generatedAt": 1644949362628
+    "generatedAt": 1644949725197
   }
 }
