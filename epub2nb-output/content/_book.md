@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
+  - promo.html
   - pribehy_sherlocka_holmese_split_003.html
   - pribehy_sherlocka_holmese_split_004.html
   - pribehy_sherlocka_holmese_split_005.html
