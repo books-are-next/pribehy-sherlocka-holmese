@@ -1,5 +1,6 @@
 ---
 title: VII - Modrá karbunkule
+contentType: prose
 ---
 
 Jednou o vánocích, druhého dne svátků, jsem navštívil hned po ránu svého přítele Sherlocka Holmese, abych mu popřál všeho nejlepšího. Holmes měl na sobě rudý župan a hověl si na divanu, na dosah pravé ruky stojánek s lulkami a vedle sebe haldu zmačkaných novin, které si zřejmě právě prostudoval. K pohovce měl přistavenu dřevěnou židli a na rohu jejího zadního opěradla pověšen nevýslovně ošuntělý plstěný tvrďák, strašlivě obnošený a na několika místech i děravý. Na sedadle židle ležela lupa a pinzeta, které naznačovaly, že klobouk je připraven k účelům ryze examinátorským.

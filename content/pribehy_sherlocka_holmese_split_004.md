@@ -1,5 +1,6 @@
 ---
 title: PODPIS ČTYŘ
+contentType: prose
 ---
 
 I - Vědecká dedukce

@@ -1,5 +1,6 @@
 ---
 title: IV – Vyprávění plešatého muže
+contentType: prose
 ---
 
 Šli jsme za Hindem špinavou a tuctovou chodbou, špatně osvětlenou a ještě hůř zařízenou, dokud nestanul u dveří vedoucích někam vpravo a neotevřel je. Zalil nás proud žlutého světla a uprostřed ozářené místnosti jsme spatřili drobného mužíka s neobyčejně vysokým čelem a věnečkem rozježených zrzavých vlasů, z něhož svítila lesklá holá lebka jako horský štít tyčící se z borového lesa. Stál tam, křečovitě si mnul ruce a rysy jeho tváře byly v neustálém pohybu - hned se smály, hned zas mračily, ale nikdy nebyly ani na okamžik v klidu. Příroda ho obdařila převislým rtem a řádkou příliš vystouplých, žlutých a nepravidelných zubů, které se marně pokoušel skrýt rukou, jíž si neustále hladil a přejížděl spodní část tváře. Přes tu nápadnou pleš vypadal poměrně mladě. Ve skutečnosti právě nedávno oslavil třicáté narozeniny.

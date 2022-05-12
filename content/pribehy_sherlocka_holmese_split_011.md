@@ -1,5 +1,6 @@
 ---
 title: VIII - Příležitostní malí detektivové z Baker Street
+contentType: prose
 ---
 
 „Co teď?“ zeptal jsem se. „Toby ztratil gloriolu neomylnosti.“ „Řídil se jen svými smysly,“ řekl Holmes, sundal psa ze sudu a vedl ho ven ze skladiště dřeva. „Když vezmete v úvahu, jaké množství kreozotu se v Londýně každý den rozváží, nemůžete se divit, že nám někdo zkřížil stopu. Hodně se ho teď užívá, hlavně k impregnování dřeva. Nemůžeme svalovat vinu na chudáka Tobyho.“ „Budeme se asi znova muset dostat na původní stopu.“ „Ovšem. A nemusíme se naštěstí vracet ani moc daleko. Na rohu Knight's Place zmátly zřejmě psa dvě různé kreozotové stopy, které se tam křižovaly a rozbíhaly každá jiným směrem. Vydali jsme se po té špatné a teď prostě musíme najít tu správnou.“

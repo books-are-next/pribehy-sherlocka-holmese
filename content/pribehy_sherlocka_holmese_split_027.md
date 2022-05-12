@@ -1,5 +1,6 @@
 ---
 title: XII - Dům „U měděných buků“
+contentType: prose
 ---
 
 „Miluje-li člověk umění pro ně samotné,“ poznamenal Holmes a odhodil Daily Telegraph i s jeho stránkou s inzeráty, „nachází obvykle největší zalíbení v jeho nejprostších a nejnižších projevech. S potěšením pozoruji, Watsone, že jste tu pravdu rovněž pochopil a ve svých záznamech, v nichž jste tak laskavě zachytil a musím říci někdy i přikrášlil naše případy, zdaleka nekladete tolik důrazu na mé přečetné causes célebres a senzační soudy, při nichž jsem vystupoval, jako na nevýznamné události, které samy o sobě byly snad dost všední, ale při nichž se dostatečné uplatnily schopnosti dedukce a logické syntézy, které pokládám za svoji zcela zvláštní doménu.“

@@ -1,5 +1,6 @@
 ---
 title: III - Při hledání řešení
+contentType: prose
 ---
 
 Když se Holmes vrátil, bylo už půl šesté. Byl veselý, svěží a ve výtečné náladě, která se u něho ovšem pravidelně střídala se záchvaty nejhlubší deprese.

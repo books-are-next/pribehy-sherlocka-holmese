@@ -1,5 +1,6 @@
 ---
 title: VI - Ohyzdný žebrák
+contentType: prose
 ---
 
 Isa Whitney, bratr zemřelého Eliáše Whitneyho, děkana bohoslovecké fakulty svatého Jiří, úplně propadl opiu. Jak jsem se dověděl, pramenil jeho návyk z pošetilého vrtochu ještě z dob studií - přečetl si kdysi stať, v níž de Quincey vylíčil své sny a halucinace, a napustil si tabák opiovou esencí, aby dosáhl stejného účinku. Tak jako mnozí před ním zjistil i on, že je snadnější tomuto zlozvyku přivyknout než se ho zbavit, a ještě po léta byl otrokem narkotik, takže se ho přátelé a příbuzní děsili a současně ho i litovali. Ještě teď ho vidím - úplně zhrouceného v křesle, s žlutým těstovitým obličejem, pootevřenými ústy a vytřeštěnýma očima - hotový vrak a trosku kdysi tak ušlechtilého člověka.

@@ -1,5 +1,6 @@
 ---
 title: IX - Přetržený řetěz
+contentType: prose
 ---
 
 Probudil jsem se teprve pozdě odpoledne, posílený a osvěžený spánkem. Sherlock Holmes stále ještě seděl na stejném místě jako ve chvíli, kdy jsem usnul, jen housle už odložil a zahloubal se do nějaké knihy. Jakmile jsem se zavrtěl, podíval se na mě a všiml jsem si, že se tváří mrzutě a ustaraně.

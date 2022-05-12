@@ -1,5 +1,6 @@
 ---
 title: V - Pět pomerančových jadérek
+contentType: prose
 ---
 
 Nahlédnu-li do svých poznámek a záznamů o pátrání Sherlocka Holmese v letech 1882-1890, nacházím v nich tolik případů s tak podivuhodnými a zajímavými podrobnostmi, že se jen stěží rozhoduji, který z nich zvolit a který vypustit. Některé jsou však již známy z novin a v jiných se zase dostatečně neuplatnily mimořádné schopnosti, jimiž můj přítel tolik oplývá a které bych rád v této své práci ilustroval. Některým případům zabránil již předem svou geniální schopností analyzovat a vyprávění o nich by sice mělo začátek, ale ne konec, a jiné byly zas vyřešeny pouze částečně a osvětleny spíš na základě domněnky či úvahy než absolutním logickým důkazem, na který si můj přítel vždy tolik potrpěl. Jeden z těchto případů byl natolik pozoruhodný co do podrobností a tak děsivý ve svých důsledcích, že bych jej přece jen velmi rád zachytil, i když některé jeho body nebyly a také již zřejmě nikdy nebudou zcela vysvětleny.

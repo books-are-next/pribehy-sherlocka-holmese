@@ -1,5 +1,6 @@
 ---
 title: V – Tragédie v Pondicherry Lodge
+contentType: prose
 ---
 
 Bylo skoro jedenáct hodin, když jsme dorazili k definitivnímu cíli našeho nočního dobrodružství. Vlhká mlha velkoměsta zůstala za námi a noc byla docela příjemná. Od západu vál teplý vítr a po obloze pomalu pluly těžké mraky, za jejichž okraji chvílemi vykukoval poloviční měsíc. Bylo dost jasno, takže jsme viděli poměrně daleko, ale Thaddeus Sholto přesto sundal z kočáru jednu postranní lucernu, aby nám posvítil na cestu.

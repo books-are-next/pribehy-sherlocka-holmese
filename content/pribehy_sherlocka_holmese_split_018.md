@@ -1,5 +1,6 @@
 ---
 title: III - Případ totožnosti
+contentType: prose
 ---
 
 „Můj milý příteli,“ pravil Sherlock Holmes, když jsme tak jednou seděli v jeho domě, každý po jedné straně krbu, „lidská fantazie dovede vytvářet divy, ale život je vždycky nekonečně složitější. Vždyť my bychom si ani neodvážili vymyslet něco takového, co patří k docela všedním úkazům lidské existence. Kdybychom teď mohli ruku v ruce vyletět oknem, vznášet se nad tímto nesmírným městem, opatrně nadzdvihovat střechy a nahlížet do všech těch podivných příběhů, které se pod nimi odehrávají, do zvláštních náhod, piklů, zkřížených plánů a neuvěřitelných řetězů událostí, tak jak se táhnou celými generacemi a vedou k naprosto outré výsledkům, působila by vedle nich veškerá románová díla se svými konvencemi a předem jasnými závěry naprosto vyčpěle a zbytečně.“

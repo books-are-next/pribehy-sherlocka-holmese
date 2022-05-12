@@ -1,5 +1,6 @@
 ---
 title: II - Obeznámení s případem
+contentType: prose
 ---
 
 Slečna Morstanová vešla do pokoje pevným krokem a navenek se dokonale ovládala. Byla to mladá blondýnka menší postavy, trochu upejpavá, s rukavicemi na rukou a oblečená s maximálním vkusem. Střízlivost a jednoduchost kostýmu však naznačovala, že její prostředky nejsou neomezené. Kostým byl v tmavé, šedobéžové barvě, ale bez zbytečného lemování a ozdob, na hlavě měla malý turban stejně temného odstínu, oživený jen drobným bílým pírkem po straně. Její tvář nepřekvapovala pravidelnými rysy ani krásnou pletí, ale bylo v ní cosi líbezného a roztomilého a z velkých modrých očí vyzařovala vzácná oduševnělost a porozumění. Poznal jsem ženy mnoha národů ve třech různých světadílech, ale nikdy jsem dosud nespatřil tvář, která by zřetelněji prozrazovala jemnou a citlivou povahu. Když usedala na židli, kterou jí Sherlock Holmes nabídl, neušlo mi, že se jí chvějí rty a třesou ruce. Celý její zevnějšek svědčil o krajním rozčilení.

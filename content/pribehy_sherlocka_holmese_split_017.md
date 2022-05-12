@@ -1,5 +1,6 @@
 ---
 title: II - Spolek ryšavců
+contentType: prose
 ---
 
 Loni na podzim jsem zašel jednoho dne za svým přítelem Sherlockem Holmesem a zastihl jej zabraného do rozhovoru s jakýmsi statným červenolícím postarším pánem s ohnivé ryšavými vlasy. S omluvou, že vyrušuji, jsem se již mínil honem vzdálit, ale Holmes mne prudce vtáhl do pokoje a zavřel za mnou dveře.

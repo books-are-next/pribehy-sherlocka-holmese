@@ -1,5 +1,6 @@
 ---
 title: VIII - Strakatý pás
+contentType: prose
 ---
 
 Když se probírám svými zápisky o sedmdesáti nejrůznějších případech, na nichž jsem v posledních osmi letech studoval metody svého přítele Sherlocka Holmese, nalézám mezi nimi mnohé, jež jsou tragické, některé směšné a jiné zas pouze podivné, ale žádný z nich není obyčejný, neboť Sherlock Holmes pracoval spíše pro lásku k svému umění než pro nabytí majetku, a naprosto proto odmítal ujmout se pátrání, které by nemělo příslib čehosi zvláštního, ne-li dokonce fantastického. Ať se však zamyslím nad všemi těmi případy, nevzpomínám si na žádný, který by se byl odehrával za okolností tak podivuhodných jako případ spojený se známou rodinou Roylottů ze Stoke Moranu v Surrey. Došlo k nim na samém počátku našeho přátelství s Holmesem, kdy jsme ještě coby dva svobodní mládenci společně bydleli v Baker Street. Možná že bych se o nich byl rozepsal již dávno, ale zavázali jsme se tehdy mlčením, a teprve tento měsíc mne předčasná smrt dámy, jíž jsme přísahali, slibu zprostila. Je snad jen dobře, že fakta konečně vyjdou najevo, neboť jak jsem se dověděl, koluje o smrti doktora Grimesbyho Roylotta tolik pověstí, že celá záležitost působí ještě příšerněji než pravda.

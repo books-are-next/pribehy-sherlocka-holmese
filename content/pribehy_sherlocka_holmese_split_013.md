@@ -1,5 +1,6 @@
 ---
 title: X – Konec domorodce z ostrovů
+contentType: prose
 ---
 
 Povečeřeli jsme ve veselé náladě. Když Holmes chtěl, uměl báječně konverzovat, a ten večer opravdu chtěl. Zdálo se dokonce, že je ve stavu jakési nervové exaltace. Byl prostě okouzlující - nikdy jsem ho takového neviděl. Rychle střídal konverzační témata, mluvil o náboženských divadelních hrách, o středověké keramice, o stradivárkách, o buddhismu na Ceylonu a o válečných lodích budoucnosti - a ve všem se vyznal, jako by každou tu věc speciálně studoval. Jeho jiskřivý humor ostře kontrastoval se skličující depresí, které propadal v minulých dnech. Athelney Jones dokázal, že je v mimopracovní době docela společenský člověk, a na večeři si pochutnával jako pravý labužník. Pokud jde o mne, blažilo mě pomyšlení, že co nevidět dokončíme nesnadný úkol, a trochu jsem se i nakazil Holmesovou veselostí.

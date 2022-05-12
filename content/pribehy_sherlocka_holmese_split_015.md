@@ -1,5 +1,6 @@
 ---
 title: XII - Podivuhodná historie Jonathana Smalla
+contentType: prose
 ---
 
 Policajt čekající v drožce byl neobyčejně trpělivý muž, poněvadž to trvalo hezky dlouho, než jsem se k němu vrátil. Když jsem mu však ukázal prázdnou truhlu, velice se zachmuřil.
