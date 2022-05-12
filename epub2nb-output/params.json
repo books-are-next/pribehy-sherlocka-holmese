@@ -349,8 +349,7 @@
       "title": "Příběhy Sherlocka Holmese",
       "identifier": "fda8acc1-7caa-4d1e-a6a5-40f4d5ba7bdd",
       "author": "Arthur Conan Doyle",
-      "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-15T18:28:43.500Z"
+      "publisher": "Městská knihovna v Praze"
     },
     "chapters": [
       {
@@ -580,6 +579,6 @@
       "user": "books-are-next",
       "repo": "pribehy-sherlocka-holmese"
     },
-    "generatedAt": 1644949725197
+    "generatedAt": 1652351452394
   }
 }

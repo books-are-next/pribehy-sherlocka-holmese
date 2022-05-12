@@ -1,5 +1,6 @@
 ---
 title: IX - Inženýrův palec
+contentType: prose
 ---
 
 Ze všech případů, které byly Sherlocku Holmesovi svěřeny v letech, kdy jsme si byli nejvíce blízcí, jsem ho jen na dva upozornil já - první z nich souvisel s palcem inženýra Hatherleyho a druhý s šílenstvím plukovníka Warburtona. Warburtonův případ skýtal sice možná přesnému a přemýšlivému pozorovateli vděčnější pole působnosti, avšak záležitost inženýra Hatherleyho byla již od samého svého počátku tak zvláštní a ve všech svých podrobnostech natolik dramatická, že stojí patrně spíše za zaznamenání, i když Sherlock Holmes při jejím řešení zdaleka nemohl uplatnit všechny své deduktivní metody, jimiž dosahoval tak pozoruhodných výsledků. Pokud vím, přinesly tu historii nejedny noviny, ovšem jak všechna podobná vyprávění nemůže zdaleka vyznít tak působivě, vypoví-li se en bloc v jediném tiskařském půlsloupku, jak když se události pomalu odvíjejí čtenáři přímo před očima a každým novým objevem, vytvářejícím stupínek na cestě k úplné pravdě, se záhada postupně vyjasňuje. Hluboce na mne zapůsobily i okolnosti, za nichž k případu došlo, a ani dva roky, které již od té doby uplynuly, nedokázaly jejich účinek oslabit.

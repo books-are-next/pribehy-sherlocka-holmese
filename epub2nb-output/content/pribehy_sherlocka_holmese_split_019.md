@@ -1,5 +1,6 @@
 ---
 title: IV - Záhada Boscombského údolí
+contentType: prose
 ---
 
 Jednoho rána jsme seděli s manželkou u snídaně, když náhle služebná přinesla telegram. Byl od Sherlocka Holmese a zněl takto:

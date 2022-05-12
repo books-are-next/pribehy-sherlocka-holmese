@@ -1,5 +1,6 @@
 ---
 title: XI - Berylová korunka
+contentType: prose
 ---
 
 „Holmesi,“ řekl jsem, když jsem jednoho rána stanul u našeho arkýřového okna a zahleděl se do ulice. „Tamhle jde nějaký blázen. Je ale smutné, že ho příbuzní nechají chodit ven bez dohledu.“

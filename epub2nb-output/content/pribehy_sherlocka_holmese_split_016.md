@@ -1,5 +1,6 @@
 ---
 title: "DOBRODRUŽSTVÍ\_ SHERLOCKA HOLMESE"
+contentType: prose
 ---
 
 I - Skandál v Čechách

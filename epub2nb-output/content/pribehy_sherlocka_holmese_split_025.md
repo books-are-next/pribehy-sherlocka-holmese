@@ -1,5 +1,6 @@
 ---
 title: X - Urozený ženich
+contentType: prose
 ---
 
 Svatba lorda St. Simona a podivný konec jeho manželství dávno již přestaly zajímat vznešené kruhy, v nichž se nešťastný ženich pohybuje. Zastínily je mezitím nové skandály s podrobnostmi ještě mnohem pikantnějšími, takže o dramatu, jež se odehrálo před čtyřmi roky, se pomalu přestalo mluvit. Mám však důvod se domnívat, že veřejnosti nebyly nikdy prozrazeny všechny jeho okolnosti, a protože můj přítel Sherlock Holmes se podstatně zasloužil o vyjasnění případu, soudím, že vzpomínky na něj by ani nebyly úplné, kdybych alespoň v krátkosti nezachytil i tuto epizodu.

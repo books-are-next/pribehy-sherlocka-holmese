@@ -1,5 +1,6 @@
 ---
 title: VI - Sherlock Holmes podává důkaz
+contentType: prose
 ---
 
 „A teď, Watsone,“ řekl Holmes a zamnul si ruce, „máme půlhodinku pro sebe. Musíme jí dobře využít. Jak jsem vám už řekl, případ je pro mne téměř uzavřen. Byla by však chyba podléhat přílišné sebedůvěře. Teď se to zdá jednoduché, ale pod tím vším se může skrývat ještě něco jiného.“

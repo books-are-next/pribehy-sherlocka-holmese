@@ -1,20 +1,50 @@
 {
-  "author": "Arthur Conan Doyle",
-  "edition": "beletrie",
-  "identifier": "doyle-pribehy-sherlocka-holmese-d6981bf",
-  "languagecode": "cs",
-  "modified": "2022-02-15T17:57:06.756Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Příběhy Sherlocka Holmese",
-  "revision": "d6981bf",
+  "author": "Arthur Conan Doyle",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "doyle-pribehy-sherlocka-holmese-4468338",
+  "revision": "4468338",
+  "readingOrder": [
+    "pribehy_sherlocka_holmese_split_003.html",
+    "pribehy_sherlocka_holmese_split_004.html",
+    "pribehy_sherlocka_holmese_split_005.html",
+    "pribehy_sherlocka_holmese_split_006.html",
+    "pribehy_sherlocka_holmese_split_007.html",
+    "pribehy_sherlocka_holmese_split_008.html",
+    "pribehy_sherlocka_holmese_split_009.html",
+    "pribehy_sherlocka_holmese_split_010.html",
+    "pribehy_sherlocka_holmese_split_011.html",
+    "pribehy_sherlocka_holmese_split_012.html",
+    "pribehy_sherlocka_holmese_split_013.html",
+    "pribehy_sherlocka_holmese_split_014.html",
+    "pribehy_sherlocka_holmese_split_015.html",
+    "pribehy_sherlocka_holmese_split_016.html",
+    "pribehy_sherlocka_holmese_split_017.html",
+    "pribehy_sherlocka_holmese_split_018.html",
+    "pribehy_sherlocka_holmese_split_019.html",
+    "pribehy_sherlocka_holmese_split_020.html",
+    "pribehy_sherlocka_holmese_split_021.html",
+    "pribehy_sherlocka_holmese_split_022.html",
+    "pribehy_sherlocka_holmese_split_023.html",
+    "pribehy_sherlocka_holmese_split_024.html",
+    "pribehy_sherlocka_holmese_split_025.html",
+    "pribehy_sherlocka_holmese_split_026.html",
+    "pribehy_sherlocka_holmese_split_027.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue Feb 15 2022 18:29:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1644949779562
+    "date": "Thu May 12 2022 10:39:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351949054
   },
   "documents": [
     {
-      "title": "STUDIE V ŠARLATOVÉ • Příběhy Sherlocka Holmese",
+      "title": "STUDIE V ŠARLATOVÉ",
       "file": "pribehy_sherlocka_holmese_split_003.html",
       "words": 3,
       "chars": 18,
@@ -34,7 +64,7 @@
       ]
     },
     {
-      "title": "PODPIS ČTYŘ • Příběhy Sherlocka Holmese",
+      "title": "PODPIS ČTYŘ",
       "file": "pribehy_sherlocka_holmese_split_004.html",
       "words": 2593,
       "chars": 16291,
@@ -54,7 +84,7 @@
       ]
     },
     {
-      "title": "II - Obeznámení s případem • Příběhy Sherlocka Holmese",
+      "title": "II - Obeznámení s případem",
       "file": "pribehy_sherlocka_holmese_split_005.html",
       "words": 1693,
       "chars": 10397,
@@ -74,7 +104,7 @@
       ]
     },
     {
-      "title": "III - Při hledání řešení • Příběhy Sherlocka Holmese",
+      "title": "III - Při hledání řešení",
       "file": "pribehy_sherlocka_holmese_split_006.html",
       "words": 1525,
       "chars": 9518,
@@ -94,7 +124,7 @@
       ]
     },
     {
-      "title": "IV – Vyprávění plešatého muže • Příběhy Sherlocka Holmese",
+      "title": "IV – Vyprávění plešatého muže",
       "file": "pribehy_sherlocka_holmese_split_007.html",
       "words": 3367,
       "chars": 20390,
@@ -114,7 +144,7 @@
       ]
     },
     {
-      "title": "V – Tragédie v Pondicherry Lodge • Příběhy Sherlocka Holmese",
+      "title": "V – Tragédie v Pondicherry Lodge",
       "file": "pribehy_sherlocka_holmese_split_008.html",
       "words": 2262,
       "chars": 13548,
@@ -134,7 +164,7 @@
       ]
     },
     {
-      "title": "VI - Sherlock Holmes podává důkaz • Příběhy Sherlocka Holmese",
+      "title": "VI - Sherlock Holmes podává důkaz",
       "file": "pribehy_sherlocka_holmese_split_009.html",
       "words": 2834,
       "chars": 16910,
@@ -154,7 +184,7 @@
       ]
     },
     {
-      "title": "VII - Epizoda se sudem • Příběhy Sherlocka Holmese",
+      "title": "VII - Epizoda se sudem",
       "file": "pribehy_sherlocka_holmese_split_010.html",
       "words": 3749,
       "chars": 22537,
@@ -174,7 +204,7 @@
       ]
     },
     {
-      "title": "VIII - Příležitostní malí detektivové z Baker Street • Příběhy Sherlocka Holmese",
+      "title": "VIII - Příležitostní malí detektivové z Baker Street",
       "file": "pribehy_sherlocka_holmese_split_011.html",
       "words": 2930,
       "chars": 17855,
@@ -194,7 +224,7 @@
       ]
     },
     {
-      "title": "IX - Přetržený řetěz • Příběhy Sherlocka Holmese",
+      "title": "IX - Přetržený řetěz",
       "file": "pribehy_sherlocka_holmese_split_012.html",
       "words": 3141,
       "chars": 18675,
@@ -214,7 +244,7 @@
       ]
     },
     {
-      "title": "X – Konec domorodce z ostrovů • Příběhy Sherlocka Holmese",
+      "title": "X – Konec domorodce z ostrovů",
       "file": "pribehy_sherlocka_holmese_split_013.html",
       "words": 2986,
       "chars": 17879,
@@ -234,7 +264,7 @@
       ]
     },
     {
-      "title": "XI - Velký poklad z Agry • Příběhy Sherlocka Holmese",
+      "title": "XI - Velký poklad z Agry",
       "file": "pribehy_sherlocka_holmese_split_014.html",
       "words": 1912,
       "chars": 11185,
@@ -254,7 +284,7 @@
       ]
     },
     {
-      "title": "XII - Podivuhodná historie Jonathana Smalla • Příběhy Sherlocka Holmese",
+      "title": "XII - Podivuhodná historie Jonathana Smalla",
       "file": "pribehy_sherlocka_holmese_split_015.html",
       "words": 9024,
       "chars": 52736,
@@ -274,7 +304,7 @@
       ]
     },
     {
-      "title": "DOBRODRUŽSTVÍ  SHERLOCKA HOLMESE • Příběhy Sherlocka Holmese",
+      "title": "DOBRODRUŽSTVÍ  SHERLOCKA HOLMESE",
       "file": "pribehy_sherlocka_holmese_split_016.html",
       "words": 7517,
       "chars": 44868,
@@ -294,7 +324,7 @@
       ]
     },
     {
-      "title": "II - Spolek ryšavců • Příběhy Sherlocka Holmese",
+      "title": "II - Spolek ryšavců",
       "file": "pribehy_sherlocka_holmese_split_017.html",
       "words": 7825,
       "chars": 46834,
@@ -314,7 +344,7 @@
       ]
     },
     {
-      "title": "III - Případ totožnosti • Příběhy Sherlocka Holmese",
+      "title": "III - Případ totožnosti",
       "file": "pribehy_sherlocka_holmese_split_018.html",
       "words": 6124,
       "chars": 36182,
@@ -334,7 +364,7 @@
       ]
     },
     {
-      "title": "IV - Záhada Boscombského údolí • Příběhy Sherlocka Holmese",
+      "title": "IV - Záhada Boscombského údolí",
       "file": "pribehy_sherlocka_holmese_split_019.html",
       "words": 8346,
       "chars": 48918,
@@ -354,7 +384,7 @@
       ]
     },
     {
-      "title": "V - Pět pomerančových jadérek • Příběhy Sherlocka Holmese",
+      "title": "V - Pět pomerančových jadérek",
       "file": "pribehy_sherlocka_holmese_split_020.html",
       "words": 6033,
       "chars": 35912,
@@ -374,7 +404,7 @@
       ]
     },
     {
-      "title": "VI - Ohyzdný žebrák • Příběhy Sherlocka Holmese",
+      "title": "VI - Ohyzdný žebrák",
       "file": "pribehy_sherlocka_holmese_split_021.html",
       "words": 7893,
       "chars": 46643,
@@ -394,7 +424,7 @@
       ]
     },
     {
-      "title": "VII - Modrá karbunkule • Příběhy Sherlocka Holmese",
+      "title": "VII - Modrá karbunkule",
       "file": "pribehy_sherlocka_holmese_split_022.html",
       "words": 6711,
       "chars": 39549,
@@ -414,7 +444,7 @@
       ]
     },
     {
-      "title": "VIII - Strakatý pás • Příběhy Sherlocka Holmese",
+      "title": "VIII - Strakatý pás",
       "file": "pribehy_sherlocka_holmese_split_023.html",
       "words": 8146,
       "chars": 48725,
@@ -434,7 +464,7 @@
       ]
     },
     {
-      "title": "IX - Inženýrův palec • Příběhy Sherlocka Holmese",
+      "title": "IX - Inženýrův palec",
       "file": "pribehy_sherlocka_holmese_split_024.html",
       "words": 7014,
       "chars": 41526,
@@ -454,7 +484,7 @@
       ]
     },
     {
-      "title": "X - Urozený ženich • Příběhy Sherlocka Holmese",
+      "title": "X - Urozený ženich",
       "file": "pribehy_sherlocka_holmese_split_025.html",
       "words": 6995,
       "chars": 41657,
@@ -474,7 +504,7 @@
       ]
     },
     {
-      "title": "XI - Berylová korunka • Příběhy Sherlocka Holmese",
+      "title": "XI - Berylová korunka",
       "file": "pribehy_sherlocka_holmese_split_026.html",
       "words": 8270,
       "chars": 47926,
@@ -494,7 +524,7 @@
       ]
     },
     {
-      "title": "XII - Dům „U měděných buků“ • Příběhy Sherlocka Holmese",
+      "title": "XII - Dům „U měděných buků“",
       "file": "pribehy_sherlocka_holmese_split_027.html",
       "words": 8513,
       "chars": 50356,
@@ -514,11 +544,11 @@
       ]
     },
     {
-      "title": "Tiráž • Příběhy Sherlocka Holmese",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 200,
-      "chars": 1374,
-      "ideas": 17,
+      "words": 174,
+      "chars": 1153,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "pribehy_sherlocka_holmese_split_027.html",
@@ -536,9 +566,9 @@
   ],
   "totals": {
     "all": {
-      "words": 127614,
-      "chars": 758463,
-      "ideas": 3397
+      "words": 127588,
+      "chars": 758242,
+      "ideas": 3394
     },
     "chapters": {
       "words": 127406,
