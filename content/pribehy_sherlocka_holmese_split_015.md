@@ -3,6 +3,8 @@ title: XII - Podivuhodná historie Jonathana Smalla
 contentType: prose
 ---
 
+<section>
+
 Policajt čekající v drožce byl neobyčejně trpělivý muž, poněvadž to trvalo hezky dlouho, než jsem se k němu vrátil. Když jsem mu však ukázal prázdnou truhlu, velice se zachmuřil.
 
 „Odměna je v tahu?“ řekl otráveně. „Kde nic není, ani čert nebere. Kdyby tam ten poklad byl, mohli jsme se Samem Brownem dostat za tu noční námahu každý aspoň deset liber.“
@@ -270,3 +272,5 @@ Apropos - ještě k té norwoodské záležitosti: sám jste slyšel, že měli 
 „To dělení se mi stejně zdá dost nespravedlivé,“ poznamenal jsem. „Všechnu práci jste v téhle záležitosti udělal vlastně vy. Já při tom získal ženu, Jones si vysloužil ostruhy - co proboha zbývá vám?“
 
 „Mně,“ řekl Sherlock Holmes, „pořád ještě zbývá lahvička s kokainem.“ A natáhl po ní svou dlouhou bílou ruku.
+
+</section>

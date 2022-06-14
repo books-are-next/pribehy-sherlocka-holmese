@@ -3,6 +3,8 @@ title: XII - Dům „U měděných buků“
 contentType: prose
 ---
 
+<section>
+
 „Miluje-li člověk umění pro ně samotné,“ poznamenal Holmes a odhodil Daily Telegraph i s jeho stránkou s inzeráty, „nachází obvykle největší zalíbení v jeho nejprostších a nejnižších projevech. S potěšením pozoruji, Watsone, že jste tu pravdu rovněž pochopil a ve svých záznamech, v nichž jste tak laskavě zachytil a musím říci někdy i přikrášlil naše případy, zdaleka nekladete tolik důrazu na mé přečetné causes célebres a senzační soudy, při nichž jsem vystupoval, jako na nevýznamné události, které samy o sobě byly snad dost všední, ale při nichž se dostatečné uplatnily schopnosti dedukce a logické syntézy, které pokládám za svoji zcela zvláštní doménu.“
 
 „A přece jsem za svoje záznamy neustále obvinován ze senzacechtivosti,“ řekl jsem s úsměvem.
@@ -23,7 +25,7 @@ Bylo to jednoho chladného rána na počátku jara a seděli jsme oba po snídan
 
 Mělo v záhlaví adresu na Montague Place a datum z včerejšího večera a stálo v něm:
 
-„Milý pane Holmesi, velmi ráda bych se s Vámi poradila, mám-li či nemám přijmout místo guvernantky, které se mi naskytuje. Zastavím se u Vás zítra v půl jedenácté a doufám jen, že Vám to tak vyhovuje.                   S pozdravem Vaše Violeta Hunterová“
+„Milý pane Holmesi, velmi ráda bych se s Vámi poradila, mám-li či nemám přijmout místo guvernantky, které se mi naskytuje. Zastavím se u Vás zítra v půl jedenácté a doufám jen, že Vám to tak vyhovuje.              S pozdravem Vaše Violeta Hunterová“
 
 „Znáte tu mladou dámu?“ zeptal jsem se.
 
@@ -418,3 +420,5 @@ Když odmítala, naléhal na ni tak dlouho, až z toho dostala mozkovou horečku
 „Pak bychom se vám měli omluvit, paní Tollerová,“ řekl Holmes, „neboť jste rozhodně objasnila vše, čemu jsme dosud nerozuměli. Ale teď již přichází místní lékař s paní Rucastlovou a mám dojem, Watsone, že bychom měli nejspíše doprovodit slečnu Hunterovou do Winchesteru - zdá se mi totiž, že náš locus standi je tu poněkud pochybený.“
 
 Tak byla tedy vyřešena záhada zlověstného domu, před jehož vchodem rostly nádherné měděné zbarvené buky. Pan Rucastle zranění nepodlehl, ale stal se z něj zlomený člověk udržovaný naživu jen péčí své oddané manželky. Pořád u sebe mají své staré sluhy, kteří toho pravděpodobně vědí o Rucastlově minulém životě tolik, že se s nimi jen těžko může rozloučit. Pan Fowler a slečna Rucastlová byli den po svém útěku oddáni na zvláštní povolení v Southamptonu a panu Fowlerovi se dostalo vládního poslání na ostrově Mauritius. Pokud jde o slečnu Hunterovou, ztratil o ni můj přítel k mému značnému zklamání zájem, sotva pro něj přestala představovat jeden z jeho problémů, a teď je ředitelkou jakési soukromé školy ve Walsallu, kde prý si vede neobyčejně dobře.
+
+</section>

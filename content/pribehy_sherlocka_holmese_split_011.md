@@ -3,6 +3,8 @@ title: VIII - Příležitostní malí detektivové z Baker Street
 contentType: prose
 ---
 
+<section>
+
 „Co teď?“ zeptal jsem se. „Toby ztratil gloriolu neomylnosti.“ „Řídil se jen svými smysly,“ řekl Holmes, sundal psa ze sudu a vedl ho ven ze skladiště dřeva. „Když vezmete v úvahu, jaké množství kreozotu se v Londýně každý den rozváží, nemůžete se divit, že nám někdo zkřížil stopu. Hodně se ho teď užívá, hlavně k impregnování dřeva. Nemůžeme svalovat vinu na chudáka Tobyho.“ „Budeme se asi znova muset dostat na původní stopu.“ „Ovšem. A nemusíme se naštěstí vracet ani moc daleko. Na rohu Knight's Place zmátly zřejmě psa dvě různé kreozotové stopy, které se tam křižovaly a rozbíhaly každá jiným směrem. Vydali jsme se po té špatné a teď prostě musíme najít tu správnou.“
 
 Nebyly s tím větší nesnáze. Odvedli jsme Tobyho na místo, kde se dal oklamat. Chvilku pobíhal v širokém kruhu kolem dokola a konečně vyrazil jiným směrem.
@@ -168,3 +170,5 @@ Natáhl ruku a vyndal z přihrádky objemný svazek.
 „Ach, to se mne ptáte víc, než vám mohu říci. Jestliže jsme však už zjistili, že Small přijel do Anglie z Andamanských ostrovů, nemusíme se příliš divit ani tomu, že si s sebou přivezl domorodého kumpána. Brzo se o něm nepochybně dovíme všechno. Poslyšte, Watsone, vypadáte hrozně unaveně. Natáhněte se na pohovku a já se vás pokusím uspat.“
 
 Vzal si z kouta housle, a když jsem se uvelebil, začal hrát jakousi hlubokou zasněnou melodii, zřejmě vlastní skladbu, neboť měl pozoruhodný improvizační talent. Mlhavě si vzpomínám na jeho vychrtlé ruce, vážnou tvář, na stoupavé a klesavé pohyby smyčce. Pak se mi zdálo, že pokojně odplouvám po měkkém moři tónů, až jsem se octl v říši snů, kde na mě hleděla líbezná tvář Mary Morstanové.
+
+</section>

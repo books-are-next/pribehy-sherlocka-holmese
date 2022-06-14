@@ -3,6 +3,8 @@ title: VI - Sherlock Holmes podává důkaz
 contentType: prose
 ---
 
+<section>
+
 „A teď, Watsone,“ řekl Holmes a zamnul si ruce, „máme půlhodinku pro sebe. Musíme jí dobře využít. Jak jsem vám už řekl, případ je pro mne téměř uzavřen. Byla by však chyba podléhat přílišné sebedůvěře. Teď se to zdá jednoduché, ale pod tím vším se může skrývat ještě něco jiného.“
 
 „Vám se to zdá jednoduché!“ vybuchl jsem.
@@ -164,3 +166,5 @@ Odvedl mě na chodbu až ke schodišti.
 „Tak ho tedy přivezu,“ řekl jsem. „Teď je hodina s půlnoci. Seženu-li čerstvého koně, mohl bych být zpátky někdy před třetí.“
 
 „A já se zatím,“ řekl Holmes, „podívám, jestli bych se ještě něco nedověděl od paní Bernstonové a od toho indického sluhy, který spí ve vedlejší podkrovní světnici, jak mi řekl pan Thaddeus. Pak budu studovat metody velkého Jonese a poslouchat jeho nepříliš vybrané špičkování. Wir sind gewohnt dass die Menschen verhöhnen was sie nicht verstehen. Starý Goethe to vyjádřil pregnantně jako vždy.“
+
+</section>

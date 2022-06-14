@@ -3,6 +3,8 @@ title: VII - Modrá karbunkule
 contentType: prose
 ---
 
+<section>
+
 Jednou o vánocích, druhého dne svátků, jsem navštívil hned po ránu svého přítele Sherlocka Holmese, abych mu popřál všeho nejlepšího. Holmes měl na sobě rudý župan a hověl si na divanu, na dosah pravé ruky stojánek s lulkami a vedle sebe haldu zmačkaných novin, které si zřejmě právě prostudoval. K pohovce měl přistavenu dřevěnou židli a na rohu jejího zadního opěradla pověšen nevýslovně ošuntělý plstěný tvrďák, strašlivě obnošený a na několika místech i děravý. Na sedadle židle ležela lupa a pinzeta, které naznačovaly, že klobouk je připraven k účelům ryze examinátorským.
 
 „Vidím, že máte práci,“ řekl jsem, „a patrně jsem vás vyrušil.“
@@ -418,3 +420,5 @@ Dlouho bylo ticho, přerušované jen jeho těžkým oddechováním a pravideln�
 A také už ani slovo nepadlo. Pokojem se jen cosi mihlo, ozval se dusot na schodech, prásknutí dveřmi a hlučné dupání kroků prchajících ulicí.
 
 „Nejsem konečně od toho, Watsone, abych chytal policii její zločince,“ řekl Holmes a sáhl po hliněné lulce. „Něco jiného by bylo, kdyby Hornerovi hrozilo nebezpečí, ale tenhle chlapík už proti němu svědčit nebude a tím se celý případ zhroutí. Možná že přestupuji zákon, ale není ani vyloučené, že zachraňuji jednu lidskou duši. Tenhle chlapík už jakživ nic zlého neprovede. Na to je příliš vyděšený. Poslat ho dneska do vězení znamená udělat z něho nadosmrti kriminálníka. A kromě toho je přece čas odpouštění. Náhoda nám přinesla zvláštní a podivný problém a jsme odměněni již jeho rozluštěním. Kdybyste však byl tak laskav, doktore, a zazvonil, pustíme se teď do dalšího bádání, jehož hlavní náplní bude opět zajímavý pták.“
+
+</section>

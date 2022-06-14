@@ -3,6 +3,8 @@ title: VIII - Strakatý pás
 contentType: prose
 ---
 
+<section>
+
 Když se probírám svými zápisky o sedmdesáti nejrůznějších případech, na nichž jsem v posledních osmi letech studoval metody svého přítele Sherlocka Holmese, nalézám mezi nimi mnohé, jež jsou tragické, některé směšné a jiné zas pouze podivné, ale žádný z nich není obyčejný, neboť Sherlock Holmes pracoval spíše pro lásku k svému umění než pro nabytí majetku, a naprosto proto odmítal ujmout se pátrání, které by nemělo příslib čehosi zvláštního, ne-li dokonce fantastického. Ať se však zamyslím nad všemi těmi případy, nevzpomínám si na žádný, který by se byl odehrával za okolností tak podivuhodných jako případ spojený se známou rodinou Roylottů ze Stoke Moranu v Surrey. Došlo k nim na samém počátku našeho přátelství s Holmesem, kdy jsme ještě coby dva svobodní mládenci společně bydleli v Baker Street. Možná že bych se o nich byl rozepsal již dávno, ale zavázali jsme se tehdy mlčením, a teprve tento měsíc mne předčasná smrt dámy, jíž jsme přísahali, slibu zprostila. Je snad jen dobře, že fakta konečně vyjdou najevo, neboť jak jsem se dověděl, koluje o smrti doktora Grimesbyho Roylotta tolik pověstí, že celá záležitost působí ještě příšerněji než pravda.
 
 Jednoho rána na počátku dubna roku 1883 jsem se probudil a spatřil Sherlocka Holmese, jak stojí zcela oblečen u mé postele. Obvykle vstával dost pozdě, a protože hodiny na mém nočním stolku ukazovaly, že je teprve čtvrt na osm, podíval jsem se na něj dost překvapeně a možná i trochu nazlobeně, protože sám jsem své zvyky rád dodržoval.
@@ -506,3 +508,5 @@ Dospěl jsem k tomuto závěru, ještě než jsem vstoupil do jeho pokoje. Když
 „Čímž jste ho ovšem zahnal do větráku.“
 
 „A proto se také vrhl ve vedlejší místnosti na svého pána. Několika ranami biče jsem ho přece jen trefil a probudil v něm jeho hadí zlobu, takže napadl prvního člověka, kterého uviděl. Jsem tedy bezpochyby nepřímo odpovědný za smrt doktora Grimesbyho Roylotta, ale nemohu tvrdit, že by to zvláště znepokojovalo moje svědomí.“
+
+</section>

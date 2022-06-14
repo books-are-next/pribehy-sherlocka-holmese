@@ -3,6 +3,8 @@ title: X - Urozený ženich
 contentType: prose
 ---
 
+<section>
+
 Svatba lorda St. Simona a podivný konec jeho manželství dávno již přestaly zajímat vznešené kruhy, v nichž se nešťastný ženich pohybuje. Zastínily je mezitím nové skandály s podrobnostmi ještě mnohem pikantnějšími, takže o dramatu, jež se odehrálo před čtyřmi roky, se pomalu přestalo mluvit. Mám však důvod se domnívat, že veřejnosti nebyly nikdy prozrazeny všechny jeho okolnosti, a protože můj přítel Sherlock Holmes se podstatně zasloužil o vyjasnění případu, soudím, že vzpomínky na něj by ani nebyly úplné, kdybych alespoň v krátkosti nezachytil i tuto epizodu.
 
 Došlo k ní několik týdnů před mou vlastní svatbou, kdy jsem ještě bydlel u Holmese na Baker Street. Jednou se můj přítel vrátil z odpolední procházky a našel na stole dopis, který tu na něj čekal. Sám jsem strávil celý den doma, protože počasí se náhle obrátilo, začalo pršet a kulka, kterou jsem si přivezl v jedné noze na památku afgánského tažení, mě bolela až s neúnavnou vytrvalostí. Usazen v křesle, s nohama položenýma na druhé lenošce a obklopen celým mračnem novin, pročítal jsem si denní zprávy, a když jsem se jich nabažil, odhodil jsem noviny stranou a jen si tak seděl, prohlížel velkou korunku s monogramem na obálce ležící na stole a lenivě přemýšlel, co asi za urozenou osobu to píše mému příteli.
@@ -456,3 +458,5 @@ Lord St. Simon stál stále ještě v strnulé póze, ale naslouchal tomu dlouh�
 „Valný výsledek to ovšem nemělo,“ namítl jsem. „Rozhodně se nechoval zvlášť přívětivě.“
 
 „Ale Watsone,“ řekl Holmes s úsměvem, „nebyl byste asi také zvlášť přívětivý, kdybyste po vší námaze s námluvami a se svatbou najednou přišel o ženu i jmění. Měli bychom lorda St. Simona soudit co nejmilostivěji a děkovat svým hvězdám, že se do jeho situace pravděpodobně nikdy nedostaneme. Ale teď si sem přitáhněte křeslo a podejte mi housle, neboť máme k vyřešení ještě jeden problém - jak si ukrátit tyto ponuré podzimní večery.“
+
+</section>

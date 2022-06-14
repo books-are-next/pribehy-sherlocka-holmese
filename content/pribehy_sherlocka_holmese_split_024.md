@@ -3,6 +3,8 @@ title: IX - Inženýrův palec
 contentType: prose
 ---
 
+<section>
+
 Ze všech případů, které byly Sherlocku Holmesovi svěřeny v letech, kdy jsme si byli nejvíce blízcí, jsem ho jen na dva upozornil já - první z nich souvisel s palcem inženýra Hatherleyho a druhý s šílenstvím plukovníka Warburtona. Warburtonův případ skýtal sice možná přesnému a přemýšlivému pozorovateli vděčnější pole působnosti, avšak záležitost inženýra Hatherleyho byla již od samého svého počátku tak zvláštní a ve všech svých podrobnostech natolik dramatická, že stojí patrně spíše za zaznamenání, i když Sherlock Holmes při jejím řešení zdaleka nemohl uplatnit všechny své deduktivní metody, jimiž dosahoval tak pozoruhodných výsledků. Pokud vím, přinesly tu historii nejedny noviny, ovšem jak všechna podobná vyprávění nemůže zdaleka vyznít tak působivě, vypoví-li se en bloc v jediném tiskařském půlsloupku, jak když se události pomalu odvíjejí čtenáři přímo před očima a každým novým objevem, vytvářejícím stupínek na cestě k úplné pravdě, se záhada postupně vyjasňuje. Hluboce na mne zapůsobily i okolnosti, za nichž k případu došlo, a ani dva roky, které již od té doby uplynuly, nedokázaly jejich účinek oslabit.
 
 K událostem, jež se tu právě chystám shrnout, došlo v létě roku 1889, nedlouho po mém sňatku. Vrátil jsem se opět ke své lékařské praxi a nakonec jsem se i odstěhoval z Holmesova domu na Baker Street, i když jsem se nezřídka u svého přítele stavil, a někdy ho dokonce i přemluvil, aby pozapomněl na své bohémské zvyklosti a zašel k nám na návštěvu. Klientela se mi stále rozrůstala, a protože jsem náhodou bydlel v blízkosti Paddingtonského nádraží, měl jsem několik pacientů i mezi tamními zaměstnanci. Jednoho z nich jsem vyléčil z bolestivé a vleklé choroby a on pak pěl neúnavně chválu na mé vynikající schopnosti, a jak jen vypátral nějakého trpitele, na kterého měl sebemenší vliv, ihned ho za mnou poslal.
@@ -356,3 +358,5 @@ Jak se náš inženýr dostal ze zahrady až na místo, kde nabyl později vědo
 „To jsem si tedy sehnal práci!“ poznamenal smutně náš inženýr, když jsme zas nasedli do vlaku a vraceli se do Londýna. „Přišel jsem o palec, padesát guinejí jsem nedostal a co jsem vlastně získal?“
 
 „Zkušenost,“ řekl mu Holmes se smíchem. „A ta pro vás může mít přece jen nějakou hodnotu, i když nepřímou. Stačí, když ji odějete do slov, a budete mít po celý život pověst výtečného společníka.“
+
+</section>

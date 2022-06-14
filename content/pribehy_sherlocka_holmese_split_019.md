@@ -3,6 +3,8 @@ title: IV - Záhada Boscombského údolí
 contentType: prose
 ---
 
+<section>
+
 Jednoho rána jsme seděli s manželkou u snídaně, když náhle služebná přinesla telegram. Byl od Sherlocka Holmese a zněl takto:
 
 „Nemůžete se na dva dny uvolnit? Právě mi telegrafovali, abych přijel do západní Anglie kvůli té tragédii v Boscombském údolí. Uvítal bych, kdybyste jel se mnou. Vzduch i krajina dokonalé. Odjezd z Paddingtonu v 11.15.“
@@ -430,3 +432,5 @@ Sešel jsem k jezírku, ale McCarthy se právě o něčem domlouval se synem, a 
 „Bůh nám pomáhej,“ řekl Sherlock Holmes po dlouhém mlčení. „Proč si jen osud tak zahrává s ubohými a bezbrannými červíčky? Vždycky když slyším o takovém případě, rozpomenu se na Baxterova slova a řeknu si: Jen z milosti boží tu kráčí Sherlock Holmes.“
 
 James McCarthy byl před herefordským soudem na základě řady zjištění, která dal Sherlock Holmes k dispozici jeho obhájci, zproštěn viny. Starý Turner žil ještě sedm měsíců po našem rozhovoru, ale teď je již mrtev a lze jen pevně doufat, že oba mladí lidé spolu budou šťastně žít a nikdy se nedovědí o temném mraku, který spočívá na jejich minulosti.
+
+</section>

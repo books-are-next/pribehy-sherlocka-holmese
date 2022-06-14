@@ -3,6 +3,8 @@ title: II - Obeznámení s případem
 contentType: prose
 ---
 
+<section>
+
 Slečna Morstanová vešla do pokoje pevným krokem a navenek se dokonale ovládala. Byla to mladá blondýnka menší postavy, trochu upejpavá, s rukavicemi na rukou a oblečená s maximálním vkusem. Střízlivost a jednoduchost kostýmu však naznačovala, že její prostředky nejsou neomezené. Kostým byl v tmavé, šedobéžové barvě, ale bez zbytečného lemování a ozdob, na hlavě měla malý turban stejně temného odstínu, oživený jen drobným bílým pírkem po straně. Její tvář nepřekvapovala pravidelnými rysy ani krásnou pletí, ale bylo v ní cosi líbezného a roztomilého a z velkých modrých očí vyzařovala vzácná oduševnělost a porozumění. Poznal jsem ženy mnoha národů ve třech různých světadílech, ale nikdy jsem dosud nespatřil tvář, která by zřetelněji prozrazovala jemnou a citlivou povahu. Když usedala na židli, kterou jí Sherlock Holmes nabídl, neušlo mi, že se jí chvějí rty a třesou ruce. Celý její zevnějšek svědčil o krajním rozčilení.
 
 „Rozhodla jsem se vás vyhledat, pane Holmesi,“ řekla, „poněvadž jste kdysi pomohl mé zaměstnavatelce, paní Forresterové, urovnat menší domácí komplikace. Vaše laskavost a obratnost na ni učinila velký dojem.“
@@ -98,3 +100,5 @@ Holmes zavrtěl hlavou.
 „Podívejte se na jeho dlouhá písmena,“ řekl. „Sotva přečnívají úroveň ostatní řádky. Tohle _d_ by klidně mohlo být _a_ a tohle _l_ se dá číst jako _e_. Lidé pevného charakteru dokážou dlouhá písmena vždy odlišit, ať píší jakkoli nečitelně. Tahle _k_ prozrazují rozkolísanost a z velkých písmen čiší samolibost. Teď si ale udělám menší procházku. Musím si ověřit pár maličkostí. Doporučuji vám tuhle knihu - jednu z nejpozoruhodnějších, jaké kdy byly sepsány. Je to „Mučednictví muže“ od Winwooda Reada. Za hodinu budu zpátky.“
 
 Usadil jsem se u okna se svazkem v ruce, ale autorovy troufalé teorie nedokázaly upoutat mé myšlenky. Ty totiž setrvávaly u naší nedávné návštěvnice - u jejích úsměvů, hlubokých a bohatých odstínů jejího hlasu, u podivné záhady, která obestírala její život. Bylo-li jí sedmnáct let v době, kdy zmizel její otec, muselo jí dnes být sedmadvacet - a to je líbezný věk, kdy mládí už ztratilo své sebevědomí a zkušenostmi poněkud vystřízlivělo. A tak jsem seděl a snil, ale hlavou se mi začaly honit tak nebezpečné myšlenky, že jsem se spěšně vrátil ke svému psacímu stolu a zuřivě jsem se zahloubal do nejnovějšího pojednání o patologii. Jak jsem mohl já - vojenský doktor s mizerné pochroumanou nohou a ještě mizernějším bankovním kontem - troufat si snít o takových věcech? Byla jen pouhým číslem, jedním z faktorů - nic víc. A rýsovala-li se přede mnou má budoucnost v černých barvách, bylo jistě lepší hledět jí tváří v tvář jako muž a nepokoušet se ji rozjasňovat prchavými bludičkami fantazie.
+
+</section>
