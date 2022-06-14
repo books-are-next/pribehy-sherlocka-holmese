@@ -1,33 +1,96 @@
+body {
+  --p-indent: 3rem;
+  --p-margin-bottom: 0;
+  --p-line-height: 1.9rem;
+  --section-vertical-margin: 3rem;
+
+  --h1-font-size: 4rem;
+  --h1-line-height: 6rem;
+  --h1-margin-bottom: clamp(4rem, 30vh, 13rem);
+  --h1-font-family: LiterataVar;
+  --h1-font-weight: 200;
+  --h1-font-variation-settings: "wght" 200, "opsz" 72;
+}
+
+.content-poetry {
+  --p-indent: 0;
+  --p-margin-bottom: 1.9rem;
+  --p-line-height: 1.9rem;
+  --section-vertical-margin: 1.5rem;
+
+  --h1-font-size: 1.2rem;
+  --h1-line-height: 1.9rem;
+  --h1-margin-bottom: 1.9rem;
+  --h1-font-family: SpaceGrotesk;
+  --h1-font-weight: 700;
+  --h1-font-variation-settings: normal;
+}
+
 main {
   h1 {
-    font-size: 4rem;
-    line-height: 6rem;
-    margin-bottom: 13rem;
+    font-size: var(--h1-font-size);
+    line-height: var(--h1-line-height);
+    margin-bottom: var(--h1-margin-bottom);
 
-    font-family: LiterataVar;
-    font-weight: 200;
-    font-variation-settings: "wght" 200, "opsz" 72;
+    font-family: var(--h1-font-family);
+    font-weight: var(--h1-font-weight);
+    font-variation-settings: var(--h1-font-variation-settings);
   }
 
   p {
-    margin-bottom: 0;
-    text-indent: 3rem;
+    margin-bottom: var(--p-margin-bottom);
+    text-indent: var(--p-indent);
     font-family: LiterataVar;
     font-weight: 400;
     font-variation-settings: "wght" 400, "opsz" 12;
     font-size: 1rem;
-    line-height: 1.9rem;
+    line-height: var(--p-line-height);
+  }
+
+  section {
+    margin-bottom: var(--section-vertical-margin);
   }
 
   blockquote,
   q,
   blockquote p {
-    font-family: LiterataVarItalic;
+    font-family: LiterataVar;
+    font-style: italic;
+  }
+
+  blockquote {
+    margin: var(--p-line-height) var(--p-indent);
+  }
+
+  .centered {
+    margin: 0 var(--p-indent);
+
+    p {
+      text-align: center;
+    }
+  }
+
+  hr {
+    display: block;
+    margin: 0;
+    border: none;
+
+    &::before {
+      content: "* * *";
+      display: block;
+      color: var(--accent-color);
+      font-size: 1.5rem;
+      margin: 1.9rem auto 1.4rem;
+      text-align: center;
+    }
   }
 
   h1 + p,
   h2 + p,
-  h3 + p {
+  h3 + p,
+  hr + p,
+  section p:first-child,
+  blockquote p:first-child {
     text-indent: 0;
   }
 }
