@@ -3,6 +3,8 @@ title: V – Tragédie v Pondicherry Lodge
 contentType: prose
 ---
 
+<section>
+
 Bylo skoro jedenáct hodin, když jsme dorazili k definitivnímu cíli našeho nočního dobrodružství. Vlhká mlha velkoměsta zůstala za námi a noc byla docela příjemná. Od západu vál teplý vítr a po obloze pomalu pluly těžké mraky, za jejichž okraji chvílemi vykukoval poloviční měsíc. Bylo dost jasno, takže jsme viděli poměrně daleko, ale Thaddeus Sholto přesto sundal z kočáru jednu postranní lucernu, aby nám posvítil na cestu.
 
 Sídlo zvané Pondicherry Lodge stálo na soukromém pozemku a ze všech stran bylo obehnáno vysokou kamennou zdí, do níž byly nahoře zacementovány střepiny skla. Jediný vchod představovala úzká, železem pobitá vrata. Náš průvodce na ně zabušil zvláštním dvojitým úderem, jakého užívají listonoši.
@@ -132,3 +134,5 @@ Rozhazoval rukama a nepříčetně dupal v záchvatu jakési křečovité zuřiv
 „Nemáte důvod k obavám, pane Sholto,“ řekl Holmes vlídné a položil mu ruku na rameno, „poslechněte mé rady, jeďte na komisařství a ohlaste celou věc policii. Nabídněte jim veškerou pomoc, kterou jim můžete poskytnout. Počkáme tu, dokud se nevrátíte.“
 
 Mužík ho poslechl jako ve snách a slyšeli jsme, jak vrávorá dolů po schodech a jeho kroky zanikají ve tmě.
+
+</section>

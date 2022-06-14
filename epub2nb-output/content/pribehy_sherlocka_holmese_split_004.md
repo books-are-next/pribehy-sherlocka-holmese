@@ -3,6 +3,8 @@ title: PODPIS ČTYŘ
 contentType: prose
 ---
 
+<section>
+
 I - Vědecká dedukce
 
 Sherlock Holmes si vzal z rohu krbové římsy svou lahvičku a z pěkného marokénového pouzdra vyňal injekční stříkačku. Dlouhými, nervózními bílými prsty nasadil tenkou jehlu a na levé ruce si vyhrnul rukáv košile. Chvilku zamyšleně hleděl na šlachovité předloktí a zápěstí, poseté a zjizvené nesčetnými vpichy injekční jehly. Posléze vbodl ostrý hrot pod kůži, stlačil malý píst a s hlubokým, spokojeným povzdechem se zvrátil do křesla se sametovým potahem.
@@ -120,3 +122,5 @@ Přikývl jsem na znamení, že sleduji jeho úvahu.
 Otevřel jsem ústa, abych na tu nadnesenou tirádu odpověděl, ale v té chvíli s rázným zaklepáním vstoupila naše hospodyně a přinesla nám na mosazném tácku navštívenku.
 
 „Slečna Mary Morstanová,“ četl Holmes. „Hm! To jméno mi nic neříká. Požádejte tu mladou dámu, ať jde dál, paní Hudsonová. Ne, vy nechoďte pryč, doktore. Budu raději, když tu zůstanete.“
+
+</section>

@@ -3,6 +3,8 @@ title: IV – Vyprávění plešatého muže
 contentType: prose
 ---
 
+<section>
+
 Šli jsme za Hindem špinavou a tuctovou chodbou, špatně osvětlenou a ještě hůř zařízenou, dokud nestanul u dveří vedoucích někam vpravo a neotevřel je. Zalil nás proud žlutého světla a uprostřed ozářené místnosti jsme spatřili drobného mužíka s neobyčejně vysokým čelem a věnečkem rozježených zrzavých vlasů, z něhož svítila lesklá holá lebka jako horský štít tyčící se z borového lesa. Stál tam, křečovitě si mnul ruce a rysy jeho tváře byly v neustálém pohybu - hned se smály, hned zas mračily, ale nikdy nebyly ani na okamžik v klidu. Příroda ho obdařila převislým rtem a řádkou příliš vystouplých, žlutých a nepravidelných zubů, které se marně pokoušel skrýt rukou, jíž si neustále hladil a přejížděl spodní část tváře. Přes tu nápadnou pleš vypadal poměrně mladě. Ve skutečnosti právě nedávno oslavil třicáté narozeniny.
 
 „Jsem vám k službám, slečno Morstanová,“ opakoval tenkým, vysokým hláskem. „A vám samozřejmě také, pánové. Račte laskavě vstoupit do mého skromného útulku. Mám to tu malé, slečno, ale zařízené podle vlastního vkusu. Pravá oáza umění v kvílející poušti jižního Londýna.''
@@ -96,3 +98,5 @@ Venku na nás čekal kočár a náš program byl zřejmě naplánován předem, 
 Při vyslovení této obrovské částky jsme na sebe všichni pohlédli s rozšířenýma očima. Slečna Morstanová, obhájíme-li její práva, stane se z chudobné guvernantky rázem nejbohatší dědičkou v celé Anglii. Zajisté bylo na místě, aby se její oddaný přítel z takových novinek radoval, přesto však se musím k vlastní hanbě přiznat, že se mi do duše vkradlo sobectví a mé srdce se proměnilo v olověné závaží. Vykoktal jsem jen pár nesouvislých blahopřání a všecek sklíčený jsem zůstal sedět se sklopenou hlavou, neposlouchaje už ani drmolení našeho nového známého. Ten člověk byl ukázkový případ hypochondra a jen jako ve snu jsem slyšel, jak na mě chrlí nekonečný výčet chorobných symptomů a dožaduje se informací o složení a působení nespočetných lektvarů a utrejchů, z nichž některé stále nosil s sebou v koženém pouzdře v kapse. Věřím pevně, že si nezapamatoval žádnou z rad, které jsem mu toho večera poskytl. Holmes totiž tvrdí, že mě zaslechl, jak jsem ho varoval před velkým nebezpečím, jemuž se vystavuje, užije-li více než dvou kapek ricínového oleje, zatímco k uklidnění prý jsem mu doporučoval větší dávky strychninu. Buď jak buď, opravdu se mi ulevilo, když kočár s trhnutím zůstal stát a kočí seskočil z kozlíku, aby nám otevřel dvířka.
 
 „Tak tohle je Pondicherry Lodge, slečno Morstanová,“ řekl Thaddeus Sholto, pomáhaje jí vystoupit.
+
+</section>

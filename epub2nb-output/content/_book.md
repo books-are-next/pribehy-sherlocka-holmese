@@ -4,14 +4,16 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Příběhy Sherlocka Holmese
   identifier: fda8acc1-7caa-4d1e-a6a5-40f4d5ba7bdd
   author: Arthur Conan Doyle
   publisher: Městská knihovna v Praze
   modified: '2022-02-15T17:57:06.756Z'
-  languageCode: cs
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2490-0
 readingOrder:
   - promo.html
   - pribehy_sherlocka_holmese_split_003.html

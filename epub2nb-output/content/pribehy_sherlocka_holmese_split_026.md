@@ -3,6 +3,8 @@ title: XI - Berylová korunka
 contentType: prose
 ---
 
+<section>
+
 „Holmesi,“ řekl jsem, když jsem jednoho rána stanul u našeho arkýřového okna a zahleděl se do ulice. „Tamhle jde nějaký blázen. Je ale smutné, že ho příbuzní nechají chodit ven bez dohledu.“
 
 Můj přítel povstal lenivě z křesla, zastavil se za mnou s rukama v kapsách županu a podíval se mi přes rameno. Bylo jasné mrazivé únorové ráno a na zemi ještě ležela vysoká pokrývka včerejšího sněhu, který se zářivě třpytil v zimním slunci. Středem Baker Street v něm vozidla projela hnědý drolivý pás, ale po obou jeho stranách a na haldách při kraji ulice se sníh bělel ještě docela stejně, jako když čerstvě napadal. Šedý chodník byl již umeten a seškrábán, ale pořád to po něm ještě nebezpečně klouzalo a chodců tu bylo mnohem méně než obvykle. Od Metropolitní stanice nepřicházel vlastně nikdo jiný než onen pán, jehož výstřední chování mě tak zarazilo.
@@ -438,3 +440,5 @@ Jistě si už sám domyslíte, co jsem pak asi podnikl. Zašel jsem v přestroje
 „Byl to však den, který zachránil Anglii před obrovským veřejným skandálem,“ pravil bankéř a povstal. „Pane, nenacházím slov, abych vám poděkoval, ale sám uvidíte, jak vděčen jsem vám za vše, co jste pro mne udělal. Vaše umění skutečně předčilo všechny chvály, které jsem o vás kdy slyšel. Teď se však musím rozběhnout za svým milým chlapcem a omluvit se mu za křivdu, jíž jsem se na něm dopustil. Zdrtilo mne však, co jste mi prozradil o mé nebohé Marii. Ani vy mi patrně nemůžete prozradit, kde se teď nachází.“
 
 „Můžeme myslím s jistotou prohlásit,“ opáčil Holmes, „že se nachází tam, kde je teď sir George Burnwell. A je rovněž i jisté, že ať se prohřešila sebevíc, budou brzy její hříchy více než po zásluze potrestány.“
+
+</section>

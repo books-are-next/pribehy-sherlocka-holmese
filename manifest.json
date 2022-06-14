@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "doyle-pribehy-sherlocka-holmese-f9ad928",
-  "revision": "f9ad928",
+  "identifier": "doyle-pribehy-sherlocka-holmese-34e2884",
+  "revision": "34e2884",
   "readingOrder": [
     "promo.html",
     "pribehy_sherlocka_holmese_split_003.html",
@@ -40,8 +40,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 15:11:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652368261016
+    "date": "Tue Jun 14 2022 05:59:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655186390280
   },
   "documents": [
     {
@@ -59,9 +59,9 @@
     {
       "title": "STUDIE V ŠARLATOVÉ",
       "file": "pribehy_sherlocka_holmese_split_003.html",
-      "words": 3,
-      "chars": 18,
-      "ideas": 1,
+      "words": 19,
+      "chars": 118,
+      "ideas": 2,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -540,7 +540,7 @@
       "title": "XII - Dům „U měděných buků“",
       "file": "pribehy_sherlocka_holmese_split_027.html",
       "words": 8513,
-      "chars": 50356,
+      "chars": 50351,
       "ideas": 209,
       "role": "chapter",
       "order": 25,
@@ -579,14 +579,14 @@
   ],
   "totals": {
     "all": {
-      "words": 127588,
-      "chars": 758242,
-      "ideas": 3394
+      "words": 127604,
+      "chars": 758337,
+      "ideas": 3395
     },
     "chapters": {
-      "words": 127406,
-      "chars": 757035,
-      "ideas": 3376
+      "words": 127422,
+      "chars": 757130,
+      "ideas": 3377
     }
   }
 }

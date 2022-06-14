@@ -3,6 +3,8 @@ title: III - Případ totožnosti
 contentType: prose
 ---
 
+<section>
+
 „Můj milý příteli,“ pravil Sherlock Holmes, když jsme tak jednou seděli v jeho domě, každý po jedné straně krbu, „lidská fantazie dovede vytvářet divy, ale život je vždycky nekonečně složitější. Vždyť my bychom si ani neodvážili vymyslet něco takového, co patří k docela všedním úkazům lidské existence. Kdybychom teď mohli ruku v ruce vyletět oknem, vznášet se nad tímto nesmírným městem, opatrně nadzdvihovat střechy a nahlížet do všech těch podivných příběhů, které se pod nimi odehrávají, do zvláštních náhod, piklů, zkřížených plánů a neuvěřitelných řetězů událostí, tak jak se táhnou celými generacemi a vedou k naprosto outré výsledkům, působila by vedle nich veškerá románová díla se svými konvencemi a předem jasnými závěry naprosto vyčpěle a zbytečně.“
 
 „A přesto o tom nejsem přesvědčen,“ odpověděl jsem. „Vždyť všechny ty případy, o nichž se dovídáme z novin, jsou obvykle zcela prostomyslné a vulgární. V našich policejních zprávách je realismus posunut až k samé hranici únosnosti, a přece musíme přiznat, že nevede k nikterak úchvatným či inspirujícím výsledkům.“
@@ -278,3 +280,5 @@ Zatímco Holmes hovořil, nabyl náš návštěvník zas něco ze své sebejisto
 „A co bude se slečnou Sutherlandovou?“
 
 „I kdybych jí to nakrásně řekl, přece mi neuvěří. Pamatujete si snad staré perské přísloví, že v nebezpečenství se vydává, kdo z tygřího doupěte mládě odebere, avšak i ten, kdo ženu o sen připraví. A Hafiz má v sobě stejně moudrosti jak Horác a stejně dobře zná i tento svět.“
+
+</section>

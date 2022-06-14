@@ -3,6 +3,8 @@ title: VI - Ohyzdný žebrák
 contentType: prose
 ---
 
+<section>
+
 Isa Whitney, bratr zemřelého Eliáše Whitneyho, děkana bohoslovecké fakulty svatého Jiří, úplně propadl opiu. Jak jsem se dověděl, pramenil jeho návyk z pošetilého vrtochu ještě z dob studií - přečetl si kdysi stať, v níž de Quincey vylíčil své sny a halucinace, a napustil si tabák opiovou esencí, aby dosáhl stejného účinku. Tak jako mnozí před ním zjistil i on, že je snadnější tomuto zlozvyku přivyknout než se ho zbavit, a ještě po léta byl otrokem narkotik, takže se ho přátelé a příbuzní děsili a současně ho i litovali. Ještě teď ho vidím - úplně zhrouceného v křesle, s žlutým těstovitým obličejem, pootevřenými ústy a vytřeštěnýma očima - hotový vrak a trosku kdysi tak ušlechtilého člověka.
 
 Jednoho večera - bylo to v červnu devětaosmdesátého roku - u nás kdosi zazvonil právě ve chvíli, kdy člověk poprvé zívne a podívá se po hodinách. Napřímil jsem se v křesle a má paní si položila ruční práci do klína a zklamaně se na mne podívala.
@@ -446,3 +448,5 @@ Nevím, co bych vám měl ještě vysvětlit. Byl jsem rozhodnut zůstat co nejd
 „V tom případě je pravděpodobné, že již proti vám postupovat nebudeme. Ale jestli vás ještě jedinkrát přistihneme, vyjde všechno najevo. A vám, pane Holmesi, jsem věru nesmírně zavázán, že jste celou záležitost tak objasnil. Ani nevíte, co bych za to dal, kdybych věděl, jak řešíte všechny ty záhady.“
 
 „Tuhle jsem vyřešil malým posezením na pěti polštářích a vykouřením unce řezaného tabáku,“ řekl můj přítel. „Ale tak se mi zdá, Watsone, že rozjedeme-li se přímo na Baker Street, stihneme ještě včas snídani.“
+
+</section>

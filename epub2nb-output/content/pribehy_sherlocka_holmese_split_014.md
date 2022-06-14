@@ -3,6 +3,8 @@ title: XI - Velký poklad z Agry
 contentType: prose
 ---
 
+<section>
+
 Náš zajatec seděl v kajutě před železnou truhlou, pro kterou podstoupil tolik námahy a na niž tak dlouho čekal, než ji získal. Byl to opálený člověk s bezstarostnýma očima a se sítí vrásek a rýh, rozprostřenou po celé mahagonové tváři, která svědčila o tvrdém životě pod širým nebem. Zarostlá brada mu neobyčejně vystupovala kupředu, což bývá znak lidí, kteří energicky prosazují své záměry. Mohlo mu být asi tak padesát let, neboť měl černé kudrnaté vlasy už hustě prokvetlé stříbrem. Když byla jeho tvář v klidu, nepůsobila nepříjemným dojmem, ale huňaté obočí a vystouplá brada jí propůjčovaly hrozivý výraz, jakmile se rozzlobil. Toho jsem si však povšiml až později. Teď seděl se spoutanýma rukama na klíně, s hlavou skloněnou na prsa, a pichlavýma, pomrkávajícíma očima zíral na truhlu, která byla příčinou všech jeho hanebných činů. Zdálo se mi, že v jeho upjatém a zdrženlivém chování je víc lítosti než zloby. Jednu chvíli se na mě podíval, a v očích se mu dokonce objevilo cosi jako záblesk humoru.
 
 „No tak, Jonathaue Smalle,“ řekl Holmes, zapaluje si doutník, „je mi líto, že to takhle dopadlo.“
@@ -96,3 +98,5 @@ Podívala se na mě s letmým, tázavým úsměvem.
 „Pak ale i já říkám ,chválabohu’,“ zašeptala, když jsem ji k sobě přitáhl.
 
 Ať už ten poklad ztratil kdokoli - já vím, že jsem té noci poklad nalezl.
+
+</section>

@@ -3,6 +3,8 @@ title: III - Při hledání řešení
 contentType: prose
 ---
 
+<section>
+
 Když se Holmes vrátil, bylo už půl šesté. Byl veselý, svěží a ve výtečné náladě, která se u něho ovšem pravidelně střídala se záchvaty nejhlubší deprese.
 
 „V téhle věci žádná velká záhada není,“ řekl a chopil se šálku čaje, který jsem mu nalil, „zdá se, že fakta připouštějí pouze jediné vysvětlení.“
@@ -66,3 +68,5 @@ A skutečně jsme se pojednou octli v podezřelých a nehostinných končinách.
 „Sahib vás očekává,“ řekl a dřív, než jeho slova dozněla, ozval se odněkud z domu vysoký, fistulkovitý hlas.
 
 „Přiveď mi je sem, khitmutgare, „ zvolal. „Přiveď mi je rovnou sem.“
+
+</section>
