@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "doyle-pribehy-sherlocka-holmese-34e2884",
-  "revision": "34e2884",
+  "identifier": "doyle-pribehy-sherlocka-holmese-98d862a",
+  "revision": "98d862a",
   "readingOrder": [
     "promo.html",
     "pribehy_sherlocka_holmese_split_003.html",
@@ -37,11 +37,11 @@
     "pribehy_sherlocka_holmese_split_025.html",
     "pribehy_sherlocka_holmese_split_026.html",
     "pribehy_sherlocka_holmese_split_027.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Jun 14 2022 05:59:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655186390280
+    "date": "Thu Jul 07 2022 11:07:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657192079045
   },
   "documents": [
     {
@@ -70,7 +70,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "STUDIE V ŠARLATOVÉ",
+          "name": "STUDIE V ŠARLATOVÉ",
           "id": null,
           "children": []
         }
@@ -110,7 +110,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "II - Obeznámení s případem",
+          "name": "II - Obeznámení s případem",
           "id": null,
           "children": []
         }
@@ -170,7 +170,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "V – Tragédie v Pondicherry Lodge",
+          "name": "V – Tragédie v Pondicherry Lodge",
           "id": null,
           "children": []
         }
@@ -210,7 +210,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "VII - Epizoda se sudem",
+          "name": "VII - Epizoda se sudem",
           "id": null,
           "children": []
         }
@@ -230,7 +230,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "VIII - Příležitostní malí detektivové z Baker Street",
+          "name": "VIII - Příležitostní malí detektivové z Baker Street",
           "id": null,
           "children": []
         }
@@ -270,7 +270,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "X – Konec domorodce z ostrovů",
+          "name": "X – Konec domorodce z ostrovů",
           "id": null,
           "children": []
         }
@@ -290,7 +290,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XI - Velký poklad z Agry",
+          "name": "XI - Velký poklad z Agry",
           "id": null,
           "children": []
         }
@@ -545,12 +545,12 @@
       "role": "chapter",
       "order": 25,
       "prev": "pribehy_sherlocka_holmese_split_026.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "XII - Dům „U měděných buků“",
+          "name": "XII - Dům „U měděných buků“",
           "id": null,
           "children": []
         }
@@ -558,11 +558,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
-      "words": 174,
-      "chars": 1153,
-      "ideas": 14,
-      "role": "colophon",
+      "file": "about.html",
+      "words": 206,
+      "chars": 1417,
+      "ideas": 16,
+      "role": "about",
       "order": null,
       "prev": "pribehy_sherlocka_holmese_split_027.html",
       "next": null,
@@ -579,9 +579,9 @@
   ],
   "totals": {
     "all": {
-      "words": 127604,
-      "chars": 758337,
-      "ideas": 3395
+      "words": 127636,
+      "chars": 758601,
+      "ideas": 3397
     },
     "chapters": {
       "words": 127422,

@@ -41,7 +41,7 @@ readingOrder:
   - pribehy_sherlocka_holmese_split_025.html
   - pribehy_sherlocka_holmese_split_026.html
   - pribehy_sherlocka_holmese_split_027.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
@@ -129,5 +129,6 @@ static:
   - fonts
   - resources
   - template-images
+  - assets
   - favicon.png
 ---

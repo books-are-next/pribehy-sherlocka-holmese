@@ -51,7 +51,7 @@
             "filename": "pribehy_sherlocka_holmese_split_001.md",
             "xhtml": "pribehy_sherlocka_holmese_split_001.html",
             "id": 1,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -336,7 +336,7 @@
             "filename": "pribehy_sherlocka_holmese_split_028.md",
             "xhtml": "pribehy_sherlocka_holmese_split_028.html",
             "id": 27,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -581,6 +581,6 @@
       "user": "books-are-next",
       "repo": "pribehy-sherlocka-holmese"
     },
-    "generatedAt": 1655186328088
+    "generatedAt": 1657191973988
   }
 }
