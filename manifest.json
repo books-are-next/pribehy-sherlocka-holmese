@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "doyle-pribehy-sherlocka-holmese-98d862a",
-  "revision": "98d862a",
+  "identifier": "doyle-pribehy-sherlocka-holmese-744b6a0",
+  "revision": "744b6a0",
   "readingOrder": [
     "promo.html",
     "pribehy_sherlocka_holmese_split_003.html",
@@ -40,8 +40,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 11:07:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657192079045
+    "date": "Thu Jul 21 2022 14:31:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658413865143
   },
   "documents": [
     {
@@ -560,7 +560,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 206,
-      "chars": 1417,
+      "chars": 1420,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -580,7 +580,7 @@
   "totals": {
     "all": {
       "words": 127636,
-      "chars": 758601,
+      "chars": 758604,
       "ideas": 3397
     },
     "chapters": {
