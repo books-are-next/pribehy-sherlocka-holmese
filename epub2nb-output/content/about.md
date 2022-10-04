@@ -7,7 +7,7 @@ title: Tiráž
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
 ISBN 978-80-274-2490-0 (webová kniha)  
-V MKP 2. elektronické vydání z 1. 10. 2022.
+V MKP 2. elektronické vydání z 4. 10. 2022.
 
 ***
 
@@ -26,7 +26,7 @@ Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v P
 
 Citační záznam této e-knihy:
 
-DOYLE, Arthur Conan. _Příběhy Sherlocka Holmese_ \[online\]. Přel. V. Henzl, Z. Wolfová, J. Zábrana. V MKP 2. elektronické vydání z 1. 10. 2022. Praha : Městská knihovna v Praze, 2011 \[cit. 1. 10. 2022]. Dostupné z <[books-are-next.github.io/pribehy-sherlocka-holmese](https://books-are-next.github.io/pribehy-sherlocka-holmese/)>.
+DOYLE, Arthur Conan. _Příběhy Sherlocka Holmese_ \[online\]. Přel. V. Henzl, Z. Wolfová, J. Zábrana. V MKP 2. elektronické vydání z 4. 10. 2022. Praha : Městská knihovna v Praze, 2011 \[cit. 4. 10. 2022]. Dostupné z <[books-are-next.github.io/pribehy-sherlocka-holmese](https://books-are-next.github.io/pribehy-sherlocka-holmese/)>.
 
 ***
 
