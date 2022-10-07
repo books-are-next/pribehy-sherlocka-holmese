@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "doyle-pribehy-sherlocka-holmese-d889706",
-  "revision": "d889706",
+  "identifier": "doyle-pribehy-sherlocka-holmese-74fd412",
+  "revision": "74fd412",
   "readingOrder": [
     "promo.html",
     "pribehy_sherlocka_holmese_split_003.html",
@@ -40,8 +40,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:02:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924549283
+    "date": "Fri Oct 07 2022 14:09:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151752239
   },
   "documents": [
     {
